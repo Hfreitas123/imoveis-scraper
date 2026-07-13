@@ -1,0 +1,48 @@
+# =============================================================================
+#  Configuração do scraper de imóveis
+#  Ajusta estes valores livremente — não é preciso mexer no código.
+# =============================================================================
+
+localizacao:
+  # Ponto central a partir do qual se mede a distância a pé.
+  morada_central: "Rua Dr. Eduardo Santos Silva, 261, 4200-283 Porto"
+  # Coordenadas do ponto central (Hipercentro Areosa / Paranhos).
+  # Se puseres `lat`/`lon` a null, o script geocodifica a `morada_central`
+  # automaticamente via Nominatim no arranque.
+  lat: 41.1755129
+  lon: -8.5882096
+
+filtros:
+  tipologias: [T1, T2]        # tipologias a monitorizar (T0, T1, T2, T3, ...)
+  preco_maximo: 1150          # €/mês
+  raio_minutos: 30            # tempo MÁXIMO a pé até ao ponto central
+  velocidade_kmh: 5.0         # velocidade média de caminhada
+  # Multiplicador para converter a distância em linha reta (haversine) numa
+  # estimativa de distância real por ruas. 1.0 = linha reta pura;
+  # 1.3 é uma aproximação realista para malha urbana. Ajusta a gosto.
+  fator_desvio: 1.3
+
+geocoding:
+  # Nominatim exige um User-Agent identificável. Põe o teu contacto/repo.
+  user_agent: "imoveis-scraper/1.0 (github: SEU_UTILIZADOR)"
+  intervalo_seg: 1.1          # respeitar o limite de 1 pedido/segundo do Nominatim
+  cache_ficheiro: "geocode_cache.json"
+
+scraping:
+  # Sites ativos. Disponíveis: imovirtual, olx, casasapo, idealista.
+  # O idealista usa a API OFICIAL e precisa dos secrets IDEALISTA_APIKEY /
+  # IDEALISTA_SECRET (ver README); sem eles é saltado de forma limpa.
+  sites: [imovirtual, olx, casasapo, idealista]
+  pausa_entre_pedidos_seg: 2.0
+  paginas_max: 2              # nº de páginas a percorrer por site
+  # Cadência do idealista: a API gratuita tem quota mensal baixa (~100 pedidos),
+  # por isso só é consultada de X em X horas (8h ≈ 90 pesquisas/mês).
+  idealista_horas_entre: 8
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+dataset:
+  # Registo de anúncios + fonte de dados do dashboard web. Persiste via commit.
+  ficheiro: "docs/listings.json"
+  dias_historico: 30          # remover anúncios não vistos há mais de N dias
+
+# O tópico do ntfy NÃO fica aqui — vem da variável de ambiente / secret NTFY_TOPIC.

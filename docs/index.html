@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Imóveis · Porto</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<style>
+  :root{
+    --bg:#f4f5f7; --panel:#ffffff; --panel-2:#fafbfc; --text:#1c2530; --muted:#6b7684;
+    --border:#e3e7ec; --accent:#2563eb; --accent-soft:#dbeafe;
+    --imovirtual:#e4002b; --olx:#7ac70c; --casasapo:#0aa1dd; --idealista:#f7d417;
+    --new:#16a34a; --shadow:0 1px 3px rgba(20,30,45,.08),0 1px 2px rgba(20,30,45,.04);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#0f1319; --panel:#171d26; --panel-2:#1c232e; --text:#e6ebf1; --muted:#93a1b2;
+      --border:#28313d; --accent:#4b82f7; --accent-soft:#1e2c47; --shadow:0 1px 3px rgba(0,0,0,.4); }
+  }
+  :root[data-theme="dark"]{ --bg:#0f1319; --panel:#171d26; --panel-2:#1c232e; --text:#e6ebf1;
+    --muted:#93a1b2; --border:#28313d; --accent:#4b82f7; --accent-soft:#1e2c47; --shadow:0 1px 3px rgba(0,0,0,.4); }
+  :root[data-theme="light"]{ --bg:#f4f5f7; --panel:#ffffff; --panel-2:#fafbfc; --text:#1c2530;
+    --muted:#6b7684; --border:#e3e7ec; --accent:#2563eb; --accent-soft:#dbeafe; --shadow:0 1px 3px rgba(20,30,45,.08); }
+
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg);color:var(--text);font-size:14px;line-height:1.45}
+  a{color:var(--accent);text-decoration:none}
+  header{position:sticky;top:0;z-index:1000;background:var(--panel);border-bottom:1px solid var(--border);
+    padding:12px 18px;box-shadow:var(--shadow)}
+  .head-row{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  h1{font-size:18px;margin:0;font-weight:700;letter-spacing:-.2px}
+  h1 .pin{color:var(--accent)}
+  .crit{color:var(--muted);font-size:12.5px}
+  .crit b{color:var(--text);font-weight:600}
+  .spacer{flex:1}
+  .icon-btn{background:var(--panel-2);border:1px solid var(--border);color:var(--text);border-radius:8px;
+    padding:6px 10px;cursor:pointer;font-size:13px}
+  .icon-btn:hover{border-color:var(--accent)}
+  .icon-btn.on{background:var(--accent);color:#fff;border-color:transparent}
+  .alsoon{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:11.5px;color:var(--muted);margin-top:-2px}
+  .alsoon a{background:var(--panel-2);border:1px solid var(--border);border-radius:6px;padding:2px 7px;font-weight:600}
+  .alsoon a.s-imovirtual{color:var(--imovirtual)} .alsoon a.s-olx{color:#5a9600} .alsoon a.s-casasapo{color:var(--casasapo)} .alsoon a.s-idealista{color:#a88f00}
+
+  .stats{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
+  .stat{background:var(--panel-2);border:1px solid var(--border);border-radius:10px;padding:6px 12px;min-width:90px}
+  .stat .n{font-size:18px;font-weight:700}
+  .stat .l{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.4px}
+
+  .controls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:12px}
+  .controls select,.controls input[type=search]{background:var(--panel-2);border:1px solid var(--border);
+    color:var(--text);border-radius:8px;padding:7px 10px;font-size:13px}
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{border:1px solid var(--border);background:var(--panel-2);color:var(--muted);border-radius:999px;
+    padding:5px 12px;cursor:pointer;font-size:12.5px;font-weight:600;user-select:none}
+  .chip.on{color:#fff;border-color:transparent}
+  .chip.on.site-imovirtual{background:var(--imovirtual)} .chip.on.site-olx{background:var(--olx);color:#1c2530}
+  .chip.on.site-casasapo{background:var(--casasapo)} .chip.on.site-idealista{background:var(--idealista);color:#1c2530}
+  .chip.on.generic{background:var(--accent)}
+  .rng{display:flex;align-items:center;gap:7px;font-size:12.5px;color:var(--muted)}
+  .rng input{accent-color:var(--accent)}
+
+  main{display:grid;grid-template-columns:1fr 420px;gap:0;height:calc(100vh - 0px)}
+  @media (max-width:900px){ main{grid-template-columns:1fr} #map{display:none} .mobile-map main{grid-template-columns:1fr} }
+  #list{overflow-y:auto;padding:16px;height:calc(100vh - 158px)}
+  #mapwrap{position:sticky;top:158px;height:calc(100vh - 158px)}
+  #map{height:100%;width:100%}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+  .card{background:var(--panel);border:1px solid var(--border);border-radius:12px;overflow:hidden;
+    box-shadow:var(--shadow);display:flex;flex-direction:column;transition:transform .1s,border-color .1s}
+  .card:hover{transform:translateY(-2px);border-color:var(--accent)}
+  .card.hl{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent)}
+  .thumb{position:relative;aspect-ratio:16/10;background:var(--panel-2);overflow:hidden}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb .noimg{display:flex;align-items:center;justify-content:center;height:100%;color:var(--muted);font-size:34px}
+  .badges{position:absolute;top:8px;left:8px;display:flex;gap:6px}
+  .b{font-size:11px;font-weight:700;padding:3px 8px;border-radius:6px;color:#fff;backdrop-filter:blur(4px)}
+  .b.site-imovirtual{background:var(--imovirtual)} .b.site-olx{background:var(--olx);color:#1c2530}
+  .b.site-casasapo{background:var(--casasapo)} .b.site-idealista{background:var(--idealista);color:#1c2530}
+  .b.new{background:var(--new)}
+  .fav{position:absolute;top:8px;right:8px;background:rgba(0,0,0,.45);border:none;color:#fff;border-radius:8px;
+    width:30px;height:30px;cursor:pointer;font-size:15px;line-height:1}
+  .fav.on{color:#facc15}
+  .body{padding:11px 12px;display:flex;flex-direction:column;gap:6px;flex:1}
+  .price{font-size:19px;font-weight:800;letter-spacing:-.3px}
+  .price .tip{font-size:12px;font-weight:700;color:var(--accent);background:var(--accent-soft);
+    padding:2px 7px;border-radius:6px;margin-left:6px;vertical-align:middle}
+  .zona{color:var(--text);font-weight:600;font-size:13px}
+  .meta-line{color:var(--muted);font-size:12.5px;display:flex;gap:10px;flex-wrap:wrap}
+  .walk{font-weight:700;color:var(--text)}
+  .walk.aprox{color:var(--muted);font-weight:600}
+  .foot{display:flex;gap:8px;margin-top:auto;padding-top:4px}
+  .foot a.btn{flex:1;text-align:center;background:var(--accent);color:#fff;border-radius:8px;padding:8px;
+    font-weight:700;font-size:13px}
+  .foot button.hide{background:var(--panel-2);border:1px solid var(--border);color:var(--muted);border-radius:8px;
+    padding:8px 10px;cursor:pointer}
+  .age{font-size:11px;color:var(--muted)}
+  .empty{text-align:center;color:var(--muted);padding:60px 20px}
+  .leaflet-popup-content{font-size:13px}
+  .leaflet-popup-content b{font-size:14px}
+  .footer{color:var(--muted);font-size:11.5px;text-align:center;padding:16px}
+</style>
+</head>
+<body>
+<header>
+  <div class="head-row">
+    <h1><span class="pin">🏠</span> Imóveis · Porto</h1>
+    <span class="crit" id="crit"></span>
+    <span class="spacer"></span>
+    <button class="icon-btn" id="onlyFav">☆ Favoritos</button>
+    <button class="icon-btn" id="dedup" title="Colapsar o mesmo anúncio publicado em vários portais">⧉ Duplicados</button>
+    <button class="icon-btn" id="showHidden">Ocultos: 0</button>
+    <button class="icon-btn" id="theme">🌓</button>
+  </div>
+  <div class="stats" id="stats"></div>
+  <div class="controls">
+    <div class="chips" id="siteChips"></div>
+    <div class="chips" id="tipChips"></div>
+    <div class="rng">≤ <input type="range" id="walkR" min="5" max="60" step="1"><b><span id="walkV"></span> min</b></div>
+    <div class="rng">≤ <input type="range" id="priceR" min="0" max="1150" step="25"><b><span id="priceV"></span> €</b></div>
+    <select id="sort">
+      <option value="recent">Mais recentes</option>
+      <option value="price">Preço ↑</option>
+      <option value="price_desc">Preço ↓</option>
+      <option value="dist">Mais perto</option>
+    </select>
+    <input type="search" id="q" placeholder="pesquisar zona…" />
+  </div>
+</header>
+
+<main>
+  <div id="list"><div class="empty">A carregar anúncios…</div></div>
+  <div id="mapwrap"><div id="map"></div></div>
+</main>
+<div class="footer" id="footer"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+const SITES = {imovirtual:'Imovirtual', olx:'OLX', casasapo:'Casa Sapo', idealista:'Idealista'};
+const LS = {
+  fav: JSON.parse(localStorage.getItem('imv_fav')||'[]'),
+  hid: JSON.parse(localStorage.getItem('imv_hid')||'[]'),
+};
+const state = {
+  data:null, listings:[], sites:new Set(Object.keys(SITES)), tips:new Set(),
+  maxWalk:60, maxPrice:1150, sort:'recent', q:'', onlyFav:false, showHidden:false,
+  dedup: localStorage.getItem('imv_dedup')==='1',
+  markers:{}, map:null,
+};
+
+// ---- deduplicação entre portais (mesmo anúncio em vários sites) ----
+const DEDUP_STOP=new Set(("apartamento apartamentos t0 t1 t2 t3 t4 kit kitchenette para arrendamento "+
+  "arrendar arrenda alugar aluguer com sem no na em de do da dos das e a o os as um uma "+
+  "porto novo usado mobilado zona").split(" "));
+function _toks(s){ s=(s||"").toLowerCase().replace(/[^a-zà-ú0-9 ]/g," ");
+  return new Set(s.split(/\s+/).filter(w=>w.length>2 && !DEDUP_STOP.has(w))); }
+function titleSim(a,b){ const A=_toks(a),B=_toks(b); if(!A.size||!B.size) return 0;
+  let inter=0; A.forEach(w=>{ if(B.has(w)) inter++; }); return inter/(A.size+B.size-inter); }
+// Agrupa uma lista JÁ ordenada; o 1º de cada grupo (o melhor pela ordenação
+// atual) fica como principal e recebe ._dups com os outros portais.
+function applyDedup(list){
+  const groups=[];
+  for(const l of list){
+    let g=groups.find(g=> g[0].tipologia===l.tipologia && g[0].preco===l.preco &&
+      g[0].preco!=null && l.site!==g[0].site && titleSim(g[0].titulo,l.titulo)>=0.6);
+    if(g) g.push(l); else groups.push([l]);
+  }
+  return groups.map(g=>{ const p=Object.assign({},g[0]); p._dups=g.slice(1); return p; });
+}
+function saveLS(){ localStorage.setItem('imv_fav',JSON.stringify(LS.fav));
+  localStorage.setItem('imv_hid',JSON.stringify(LS.hid)); }
+const eur = n => n==null ? '—' : n.toLocaleString('pt-PT')+' €';
+function ago(iso){ const d=(Date.now()-new Date(iso))/1000;
+  if(d<3600) return Math.max(1,Math.round(d/60))+' min'; if(d<86400) return Math.round(d/3600)+'h';
+  return Math.round(d/86400)+'d'; }
+const isNew = iso => (Date.now()-new Date(iso))/3600000 < 24;
+
+// ---- tema ----
+const themeBtn=document.getElementById('theme');
+function applyTheme(t){ if(t) document.documentElement.dataset.theme=t; localStorage.setItem('imv_theme',t||''); }
+applyTheme(localStorage.getItem('imv_theme')||'');
+themeBtn.onclick=()=>{ const cur=document.documentElement.dataset.theme;
+  applyTheme(cur==='dark'?'light':cur==='light'?'':'dark'); };
+
+// ---- carregar dados ----
+fetch('./listings.json?_='+Date.now()).then(r=>r.json()).then(init)
+  .catch(e=>{ document.getElementById('list').innerHTML=
+    '<div class="empty">Não foi possível carregar <code>listings.json</code>.<br>'+
+    'Corre o scraper ou serve a pasta <code>docs/</code> por HTTP.</div>'; });
+
+function init(data){
+  state.data=data; state.listings=data.listings||[];
+  const m=data.meta||{};
+  document.getElementById('crit').innerHTML =
+    `<b>${(m.tipologias||[]).join('/')}</b> · até <b>${eur(m.preco_maximo)}</b> · `+
+    `≤ <b>${m.raio_minutos} min</b> a pé de <b>${(m.morada_central||'').split(',')[0]}</b>`;
+  document.getElementById('footer').innerHTML =
+    `Atualizado ${m.generated_at? new Date(m.generated_at).toLocaleString('pt-PT'):'—'} · `+
+    `${state.listings.length} anúncios · dados: Imovirtual · OLX · Casa Sapo · geo: OpenStreetMap`;
+  buildChips(); buildMap(); bindControls(); render();
+}
+
+function buildChips(){
+  const sc=document.getElementById('siteChips');
+  const counts={}; state.listings.forEach(l=>counts[l.site]=(counts[l.site]||0)+1);
+  Object.keys(SITES).forEach(s=>{
+    const c=document.createElement('div'); c.className='chip on site-'+s;
+    c.textContent=`${SITES[s]} (${counts[s]||0})`;
+    c.onclick=()=>{ c.classList.toggle('on'); c.classList.contains('on')?state.sites.add(s):state.sites.delete(s); render(); };
+    sc.appendChild(c);
+  });
+  const tc=document.getElementById('tipChips');
+  const tips=[...new Set(state.listings.map(l=>l.tipologia))].sort();
+  tips.forEach(t=>{ state.tips.add(t);
+    const c=document.createElement('div'); c.className='chip on generic'; c.textContent=t;
+    c.onclick=()=>{ c.classList.toggle('on'); c.classList.contains('on')?state.tips.add(t):state.tips.delete(t); render(); };
+    tc.appendChild(c);
+  });
+}
+
+function bindControls(){
+  const wr=document.getElementById('walkR'), pr=document.getElementById('priceR');
+  const m=state.data.meta||{};
+  wr.value=m.raio_minutos||60; state.maxWalk=+wr.value; document.getElementById('walkV').textContent=wr.value;
+  pr.value=m.preco_maximo||1150; state.maxPrice=+pr.value; document.getElementById('priceV').textContent=pr.value;
+  wr.oninput=()=>{ state.maxWalk=+wr.value; document.getElementById('walkV').textContent=wr.value; render(); };
+  pr.oninput=()=>{ state.maxPrice=+pr.value; document.getElementById('priceV').textContent=pr.value; render(); };
+  document.getElementById('sort').onchange=e=>{ state.sort=e.target.value; render(); };
+  document.getElementById('q').oninput=e=>{ state.q=e.target.value.toLowerCase(); render(); };
+  document.getElementById('onlyFav').onclick=e=>{ state.onlyFav=!state.onlyFav;
+    e.target.classList.toggle('on'); e.target.textContent=(state.onlyFav?'★':'☆')+' Favoritos'; render(); };
+  document.getElementById('showHidden').onclick=()=>{ state.showHidden=!state.showHidden; render(); };
+  const db=document.getElementById('dedup');
+  db.classList.toggle('on', state.dedup);
+  db.onclick=()=>{ state.dedup=!state.dedup; localStorage.setItem('imv_dedup', state.dedup?'1':'0');
+    db.classList.toggle('on', state.dedup); render(); };
+}
+
+function zonaTxt(l){ return [l.rua,l.freguesia,l.concelho].filter(Boolean).join(', ')||'zona desconhecida'; }
+
+function filtered(){
+  let a=state.listings.filter(l=>{
+    if(!state.sites.has(l.site)) return false;
+    if(!state.tips.has(l.tipologia)) return false;
+    if(l.tempo_min!=null && l.tempo_min>state.maxWalk) return false;
+    if(l.preco!=null && l.preco>state.maxPrice) return false;
+    if(state.onlyFav && !LS.fav.includes(l.uid)) return false;
+    if(!state.showHidden && LS.hid.includes(l.uid)) return false;
+    if(state.q && !zonaTxt(l).toLowerCase().includes(state.q) && !(l.titulo||'').toLowerCase().includes(state.q)) return false;
+    return true;
+  });
+  const s=state.sort;
+  a.sort((x,y)=>{
+    if(s==='price') return (x.preco??1e9)-(y.preco??1e9);
+    if(s==='price_desc') return (y.preco??-1)-(x.preco??-1);
+    if(s==='dist') return (x.tempo_min??1e9)-(y.tempo_min??1e9);
+    return new Date(y.first_seen)-new Date(x.first_seen); // recent
+  });
+  return a;
+}
+
+function render(){
+  let list=filtered();
+  const bruto=list.length;
+  if(state.dedup) list=applyDedup(list);
+  const ocultosDup=bruto-list.length;
+  document.getElementById('showHidden').textContent=`Ocultos: ${LS.hid.length}`;
+  renderStats(list, ocultosDup);
+  const el=document.getElementById('list');
+  if(!list.length){ el.innerHTML='<div class="empty">Nenhum anúncio corresponde aos filtros.</div>'; renderMarkers([]); return; }
+  const g=document.createElement('div'); g.className='grid';
+  list.forEach(l=>g.appendChild(card(l)));
+  el.innerHTML=''; el.appendChild(g);
+  renderMarkers(list);
+}
+
+function renderStats(list, ocultosDup=0){
+  const precos=list.map(l=>l.preco).filter(v=>v!=null);
+  const avg=precos.length?Math.round(precos.reduce((a,b)=>a+b,0)/precos.length):null;
+  const min=precos.length?Math.min(...precos):null;
+  const novos=list.filter(l=>isNew(l.first_seen)).length;
+  const st=[['Anúncios',list.length],['Novos 24h',novos],['Preço médio',eur(avg)],['Mais barato',eur(min)]];
+  if(ocultosDup>0) st.push(['Duplicados','−'+ocultosDup]);
+  document.getElementById('stats').innerHTML=st.map(([l,n])=>
+    `<div class="stat"><div class="n">${n}</div><div class="l">${l}</div></div>`).join('');
+}
+
+function card(l){
+  const c=document.createElement('div'); c.className='card'; c.dataset.uid=l.uid;
+  const fav=LS.fav.includes(l.uid);
+  const walkCls=l.geo_preciso?'walk':'walk aprox';
+  const walkTxt=l.tempo_min!=null?`🚶 ${Math.round(l.tempo_min)} min · ${(l.dist_km||0).toFixed(1)} km${l.geo_preciso?'':' (aprox.)'}`:'';
+  const dups=l._dups||[];
+  const porSite={}; dups.forEach(x=>{ if(!porSite[x.site]) porSite[x.site]=x; });  // 1 link por portal
+  const dupSites=Object.values(porSite);
+  const alsoOn=dupSites.length?`<div class="alsoon">⧉ também em: ${dupSites.map(x=>
+    `<a class="s-${x.site}" href="${x.url}" target="_blank" rel="noopener">${SITES[x.site]||x.site} ↗</a>`).join('')}</div>`:'';
+  c.innerHTML=`
+    <div class="thumb">
+      ${l.imagem?`<img loading="lazy" src="${l.imagem}" onerror="this.parentNode.innerHTML='<div class=noimg>🏠</div>'">`:'<div class="noimg">🏠</div>'}
+      <div class="badges">
+        <span class="b site-${l.site}">${SITES[l.site]||l.site}</span>
+        ${isNew(l.first_seen)?'<span class="b new">NOVO</span>':''}
+      </div>
+      <button class="fav ${fav?'on':''}" title="Favorito">${fav?'★':'☆'}</button>
+    </div>
+    <div class="body">
+      <div class="price">${eur(l.preco)}<span class="tip">${l.tipologia}</span></div>
+      <div class="zona">📍 ${zonaTxt(l)}</div>
+      <div class="meta-line">
+        <span class="${walkCls}">${walkTxt}</span>
+        ${l.area_m2?`<span>📐 ${l.area_m2} m²</span>`:''}
+      </div>
+      <div class="age">visto há ${ago(l.first_seen)}</div>
+      ${alsoOn}
+      <div class="foot">
+        <a class="btn" href="${l.url}" target="_blank" rel="noopener">Ver anúncio ↗</a>
+        <button class="hide" title="Ocultar">✕</button>
+      </div>
+    </div>`;
+  c.querySelector('.fav').onclick=(e)=>{ e.stopPropagation();
+    const i=LS.fav.indexOf(l.uid); i>=0?LS.fav.splice(i,1):LS.fav.push(l.uid); saveLS(); render(); };
+  c.querySelector('.hide').onclick=(e)=>{ e.stopPropagation();
+    if(!LS.hid.includes(l.uid)) LS.hid.push(l.uid); saveLS(); render(); };
+  c.onmouseenter=()=>{ const mk=state.markers[l.uid]; if(mk) mk.setZIndexOffset(1000).openPopup(); };
+  c.onclick=()=>{ const mk=state.markers[l.uid]; if(mk && state.map){ state.map.panTo(mk.getLatLng()); mk.openPopup(); } };
+  return c;
+}
+
+// ---- mapa ----
+function buildMap(){
+  const m=state.data.meta||{}; const cen=m.centro||{lat:41.1755,lon:-8.588};
+  state.map=L.map('map',{scrollWheelZoom:true}).setView([cen.lat,cen.lon],13);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    {maxZoom:19,attribution:'© OpenStreetMap'}).addTo(state.map);
+  L.marker([cen.lat,cen.lon]).addTo(state.map).bindPopup('<b>Ponto central</b><br>'+(m.morada_central||''));
+  if(m.raio_reta_km) L.circle([cen.lat,cen.lon],{radius:m.raio_reta_km*1000,
+    color:'#2563eb',weight:1,fillColor:'#2563eb',fillOpacity:.06}).addTo(state.map);
+}
+const SITE_COLOR={imovirtual:'#e4002b',olx:'#7ac70c',casasapo:'#0aa1dd',idealista:'#f7d417'};
+function renderMarkers(list){
+  Object.values(state.markers).forEach(mk=>state.map.removeLayer(mk));
+  state.markers={};
+  list.forEach(l=>{
+    if(l.lat==null||l.lon==null) return;
+    const mk=L.circleMarker([l.lat,l.lon],{radius:7,color:'#fff',weight:1.5,
+      fillColor:SITE_COLOR[l.site]||'#2563eb',fillOpacity:.95}).addTo(state.map);
+    mk.bindPopup(`<b>${eur(l.preco)} · ${l.tipologia}</b><br>${zonaTxt(l)}<br>`+
+      `🚶 ${l.tempo_min!=null?Math.round(l.tempo_min)+' min':'—'}${l.geo_preciso?'':' (aprox.)'}<br>`+
+      `<a href="${l.url}" target="_blank" rel="noopener">Ver no ${SITES[l.site]||l.site} ↗</a>`);
+    state.markers[l.uid]=mk;
+  });
+}
+</script>
+</body>
+</html>

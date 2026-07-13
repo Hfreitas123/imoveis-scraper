@@ -1,0 +1,53 @@
+name: Scraper de imóveis
+
+on:
+  schedule:
+    - cron: "0 * * * *"      # de hora a hora (UTC). Ver nota no README sobre atrasos.
+  workflow_dispatch: {}        # permite correr manualmente no separador Actions
+
+# Necessário para o passo que faz commit do estado (seen.json / geocode_cache.json).
+permissions:
+  contents: write
+
+# Evita execuções sobrepostas se uma demorar mais que o intervalo.
+concurrency:
+  group: scraper
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Correr scraper
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          # Opcionais — só para o Idealista via API oficial (ver README):
+          IDEALISTA_APIKEY: ${{ secrets.IDEALISTA_APIKEY }}
+          IDEALISTA_SECRET: ${{ secrets.IDEALISTA_SECRET }}
+        run: python -m src.main
+
+      - name: Guardar estado (commit de volta ao repo)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/listings.json geocode_cache.json
+          git add idealista_state.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "Sem alterações no estado — nada a fazer."
+          else
+            git commit -m "chore: atualizar estado do scraper [skip ci]"
+            git pull --rebase --autostash origin ${{ github.ref_name }} || true
+            git push
+          fi
