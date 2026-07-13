@@ -14,10 +14,142 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-07-13T14:52:27+00:00",
-  "total": 54
+  "generated_at": "2026-07-13T19:26:14+00:00",
+  "total": 60
  },
  "listings": [
+  {
+   "site": "olx",
+   "site_id": "672278900",
+   "titulo": "Apartamento T1 Arrendamento em Paranhos,Porto",
+   "tipologia": "T1",
+   "preco": 1100,
+   "url": "https://www.olx.pt/d/anuncio/apartamento-t1-arrendamento-em-paranhos-porto-IDJuOs4.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 60,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/ntn3t46a50wu2-PT/image;s=1280x960",
+   "lat": 41.17536,
+   "lon": -8.608476,
+   "dist_km": 2.205195342922664,
+   "tempo_min": 26.462344115071968,
+   "geo_preciso": true,
+   "uid": "olx:672278900",
+   "first_seen": "2026-07-13T19:26:10+00:00",
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:10+00:00"
+  },
+  {
+   "site": "olx",
+   "site_id": "672278903",
+   "titulo": "Apartamento T2, junto ao Hospital de São João.",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.olx.pt/d/anuncio/apartamento-t2-junto-ao-hospital-de-so-joo-IDJuOs7.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 80,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/b9v3qvnegkl6-PT/image;s=1280x853",
+   "lat": 41.183052,
+   "lon": -8.600446,
+   "dist_km": 1.7204756528861853,
+   "tempo_min": 20.645707834634223,
+   "geo_preciso": false,
+   "uid": "olx:672278903",
+   "first_seen": "2026-07-13T19:26:10+00:00",
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:10+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "91920836700067",
+   "titulo": "Apartamento T2, junto ao Hospital de São João.",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.imovirtual.com/hpr/pt/ad/apartamento-t2-junto-ao-hospital-de-sao-joao-ID1iAYn",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 80,
+   "imagem": null,
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
+   "uid": "imovirtual:91920836700067",
+   "first_seen": "2026-07-13T19:26:02+00:00",
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:02+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "19208366",
+   "titulo": "Apartamento T1 Arrendamento em Paranhos,Porto",
+   "tipologia": "T1",
+   "preco": 1100,
+   "url": "https://www.imovirtual.com/pt/ad/apartamento-t1-arrendamento-em-paranhos-porto-ID1iAYm",
+   "rua": "Travessa Dionísio dos Santos Silva",
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 60,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ims5N2UxZ2pqYm9kaDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rizgBhODDc4kOqaVz9qAA0r0RPNg0YMwF26p49TeH2A/image;s=655x491;q=80",
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
+   "uid": "imovirtual:19208366",
+   "first_seen": "2026-07-13T19:26:00+00:00",
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:00+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "19208324",
+   "titulo": "Apartamento T1 para arrendamento",
+   "tipologia": "T1",
+   "preco": 1050,
+   "url": "https://www.imovirtual.com/pt/ad/apartamento-t1-para-arrendamento-ID1iAXG",
+   "rua": "Rua de Faria Guimarães",
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 69,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFybWRndXNlaWdrNDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.I--lhXT2V2ehcqTyjsA6EEpsBM3ujO0OZ8wqAUS98cY/image;s=655x491;q=80",
+   "lat": 41.1705312,
+   "lon": -8.6051896,
+   "dist_km": 1.9829555406737662,
+   "tempo_min": 23.795466488085193,
+   "geo_preciso": true,
+   "uid": "imovirtual:19208324",
+   "first_seen": "2026-07-13T19:26:00+00:00",
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:00+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "19208367",
+   "titulo": "Apartamento T2, junto ao Hospital de São João.",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.imovirtual.com/pt/ad/apartamento-t2-junto-ao-hospital-de-sao-joao-ID1iAYn",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 80,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InV2N2JudG92ZmF1dS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Ok7CC2QUUctsq9TfVEvIwC6mAz5BwPBN8_PdObE96Zc/image;s=655x491;q=80",
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
+   "uid": "imovirtual:19208367",
+   "first_seen": "2026-07-13T19:25:58+00:00",
+   "notified": true,
+   "last_seen": "2026-07-13T19:25:58+00:00"
+  },
   {
    "site": "casasapo",
    "site_id": "a41d3f7f-7d0b-11f1-9aaf-060000000054",
@@ -315,16 +447,16 @@
    "freguesia": "Paranhos",
    "concelho": "Porto",
    "area_m2": 50,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/v6vfrq4q3tph-PT/image;s=1280x853",
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/jkpwk54nfz1l-PT/image;s=1280x853",
    "lat": 41.183918,
    "lon": -8.600069,
-   "dist_km": 1.7722882159157733,
-   "tempo_min": 21.26745859098928,
+   "dist_km": 1.7722882159157736,
+   "tempo_min": 21.267458590989282,
    "geo_preciso": true,
    "uid": "olx:672270888",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:10+00:00"
   },
   {
    "site": "olx",
@@ -345,8 +477,8 @@
    "geo_preciso": true,
    "uid": "olx:672270889",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:10+00:00"
   },
   {
    "site": "olx",
@@ -367,8 +499,8 @@
    "geo_preciso": true,
    "uid": "olx:672270624",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:10+00:00"
   },
   {
    "site": "olx",
@@ -389,8 +521,8 @@
    "geo_preciso": false,
    "uid": "olx:672267831",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:10+00:00"
   },
   {
    "site": "olx",
@@ -411,8 +543,8 @@
    "geo_preciso": false,
    "uid": "olx:672267830",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:11+00:00"
   },
   {
    "site": "olx",
@@ -433,8 +565,8 @@
    "geo_preciso": false,
    "uid": "olx:670764945",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:11+00:00"
   },
   {
    "site": "olx",
@@ -455,8 +587,8 @@
    "geo_preciso": true,
    "uid": "olx:671569483",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:11+00:00"
   },
   {
    "site": "olx",
@@ -477,8 +609,8 @@
    "geo_preciso": false,
    "uid": "olx:672230727",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:11+00:00"
   },
   {
    "site": "olx",
@@ -505,15 +637,15 @@
   {
    "site": "olx",
    "site_id": "666455813",
-   "titulo": "Apartmamento nas Antas",
+   "titulo": "Apartamento T2 duplex em Campanhã, Porto",
    "tipologia": "T2",
    "preco": 995,
-   "url": "https://www.olx.pt/d/anuncio/apartmamento-nas-antas-IDJ6nBj.html",
+   "url": "https://www.olx.pt/d/anuncio/apartamento-t2-duplex-em-campanh-porto-IDJ6nBj.html",
    "rua": null,
    "freguesia": "Campanhã",
    "concelho": "Porto",
    "area_m2": 48,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/13d4vgjlr66j-PT/image;s=563x1000",
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/3s5648tkcyp63-PT/image;s=563x1000",
    "lat": 41.16066,
    "lon": -8.590822,
    "dist_km": 2.165774845320369,
@@ -521,8 +653,8 @@
    "geo_preciso": true,
    "uid": "olx:666455813",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:11+00:00"
   },
   {
    "site": "olx",
@@ -543,8 +675,8 @@
    "geo_preciso": false,
    "uid": "olx:670652822",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:11+00:00"
   },
   {
    "site": "olx",
@@ -565,8 +697,8 @@
    "geo_preciso": true,
    "uid": "olx:672222897",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:11+00:00"
   },
   {
    "site": "olx",
@@ -582,13 +714,13 @@
    "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/95xls7e0i1gs1-PT/image;s=1024x768",
    "lat": 41.16694,
    "lon": -8.59873,
-   "dist_km": 1.6870571566575117,
+   "dist_km": 1.6870571566575114,
    "tempo_min": 20.244685879890138,
    "geo_preciso": true,
    "uid": "olx:672218473",
    "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:23+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:11+00:00"
   },
   {
    "site": "olx",
@@ -631,8 +763,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19207786",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:00+00:00"
   },
   {
    "site": "imovirtual",
@@ -653,8 +785,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19207785",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:00+00:00"
   },
   {
    "site": "imovirtual",
@@ -675,8 +807,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19207530",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:00+00:00"
   },
   {
    "site": "imovirtual",
@@ -697,8 +829,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19207527",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -719,8 +851,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19207509",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -741,8 +873,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19205851",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -763,8 +895,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19205816",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -785,8 +917,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19205266",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -807,8 +939,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19204718",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -829,8 +961,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19204418",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -851,8 +983,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19203523",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -873,8 +1005,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19201488",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -895,8 +1027,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19201195",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -917,8 +1049,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19200883",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -961,8 +1093,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19199202",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -983,8 +1115,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19197684",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -1005,8 +1137,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19197671",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -1027,8 +1159,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19197462",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -1049,8 +1181,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19196643",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -1071,8 +1203,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19195020",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -1093,8 +1225,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19194885",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -1115,8 +1247,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19194280",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -1129,7 +1261,7 @@
    "freguesia": "Paranhos",
    "concelho": "Porto",
    "area_m2": 60,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImR2YnM1ZGI1MXo2dTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HHauUO-4RjCY5opCS66_pI6vNZQQoWM27RdIXywDke0/image;s=655x491;q=80",
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1rb242cXM2dHd3bzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PxO33oGn5msziqPEO5ftHdh_GBmjPC7csvDFzmf4mcc/image;s=655x491;q=80",
    "lat": 41.1698276,
    "lon": -8.6007021,
    "dist_km": 1.588429684765578,
@@ -1137,8 +1269,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19194257",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -1159,8 +1291,8 @@
    "geo_preciso": true,
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,8 +1313,8 @@
    "geo_preciso": false,
    "uid": "imovirtual:19192289",
    "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": false,
-   "last_seen": "2026-07-13T14:52:15+00:00"
+   "notified": true,
+   "last_seen": "2026-07-13T19:26:03+00:00"
   },
   {
    "site": "imovirtual",
