@@ -14,10 +14,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-07-14T11:22:21+00:00",
-  "total": 66
+  "generated_at": "2026-07-14T13:21:17+00:00",
+  "total": 67
  },
  "listings": [
+  {
+   "site": "olx",
+   "site_id": "670854841",
+   "titulo": "T1 Como Novo Mobilado c/ Lugar de Garagem em Rio Tinto",
+   "tipologia": "T1",
+   "preco": 990,
+   "url": "https://www.olx.pt/d/anuncio/t1-como-novo-mobilado-c-lugar-de-garagem-em-rio-tinto-IDJoPZn.html",
+   "rua": null,
+   "freguesia": "Rio Tinto",
+   "concelho": "Porto",
+   "area_m2": 54,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/147l46nl63ka1-PT/image;s=1168x657",
+   "lat": 41.184692,
+   "lon": -8.582126,
+   "dist_km": 1.4827905189679866,
+   "tempo_min": 17.79348622761584,
+   "geo_preciso": true,
+   "uid": "olx:670854841",
+   "first_seen": "2026-07-14T13:21:14+00:00",
+   "notified": true,
+   "last_seen": "2026-07-14T13:21:14+00:00"
+  },
   {
    "site": "olx",
    "site_id": "672284931",
@@ -38,7 +60,7 @@
    "uid": "olx:672284931",
    "first_seen": "2026-07-14T11:22:18+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
@@ -60,7 +82,7 @@
    "uid": "olx:672284354",
    "first_seen": "2026-07-14T09:52:41+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "imovirtual",
@@ -82,7 +104,7 @@
    "uid": "imovirtual:19208602",
    "first_seen": "2026-07-14T09:52:33+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -148,7 +170,7 @@
    "uid": "olx:672239726",
    "first_seen": "2026-07-13T21:51:34+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
@@ -170,7 +192,7 @@
    "uid": "olx:672278900",
    "first_seen": "2026-07-13T19:26:10+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
@@ -192,7 +214,7 @@
    "uid": "olx:672278903",
    "first_seen": "2026-07-13T19:26:10+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "imovirtual",
@@ -236,7 +258,7 @@
    "uid": "imovirtual:19208366",
    "first_seen": "2026-07-13T19:26:00+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -258,7 +280,7 @@
    "uid": "imovirtual:19208324",
    "first_seen": "2026-07-13T19:26:00+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -280,7 +302,7 @@
    "uid": "imovirtual:19208367",
    "first_seen": "2026-07-13T19:25:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "casasapo",
@@ -588,7 +610,7 @@
    "uid": "olx:672270888",
    "first_seen": "2026-07-13T14:28:05+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
@@ -610,20 +632,20 @@
    "uid": "olx:672270889",
    "first_seen": "2026-07-13T14:28:05+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
    "site_id": "672270624",
-   "titulo": "REF3946 T2 Com Varanda - Rua da Areosa, Paranhos",
+   "titulo": "REF3946 T2 C/Varanda - Rua da Areosa, Paranhos",
    "tipologia": "T2",
    "preco": 975,
-   "url": "https://www.olx.pt/d/anuncio/ref3946-t2-com-varanda-rua-da-areosa-paranhos-IDJuMiA.html",
+   "url": "https://www.olx.pt/d/anuncio/ref3946-t2-c-varanda-rua-da-areosa-paranhos-IDJuMiA.html",
    "rua": null,
    "freguesia": "Paranhos",
    "concelho": "Porto",
    "area_m2": 100,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/brkai83qxa7s3-PT/image;s=1024x768",
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/wxkn2ha8vrur1-PT/image;s=1024x768",
    "lat": 41.177334,
    "lon": -8.586298,
    "dist_km": 0.3354962598474551,
@@ -632,7 +654,7 @@
    "uid": "olx:672270624",
    "first_seen": "2026-07-13T14:28:05+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
@@ -676,7 +698,7 @@
    "uid": "olx:672267830",
    "first_seen": "2026-07-13T14:28:05+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
@@ -698,7 +720,7 @@
    "uid": "olx:670764945",
    "first_seen": "2026-07-13T14:28:05+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
@@ -720,7 +742,7 @@
    "uid": "olx:671569483",
    "first_seen": "2026-07-13T14:28:05+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
@@ -742,7 +764,7 @@
    "uid": "olx:672230727",
    "first_seen": "2026-07-13T14:28:05+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
+   "last_seen": "2026-07-14T13:21:14+00:00"
   },
   {
    "site": "olx",
@@ -896,7 +918,7 @@
    "uid": "imovirtual:19207786",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -918,7 +940,7 @@
    "uid": "imovirtual:19207785",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -962,7 +984,7 @@
    "uid": "imovirtual:19207527",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -984,7 +1006,7 @@
    "uid": "imovirtual:19207509",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1006,7 +1028,7 @@
    "uid": "imovirtual:19205851",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1028,7 +1050,7 @@
    "uid": "imovirtual:19205816",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1050,7 +1072,7 @@
    "uid": "imovirtual:19205266",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1072,7 +1094,7 @@
    "uid": "imovirtual:19204718",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1094,7 +1116,7 @@
    "uid": "imovirtual:19204418",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1116,7 +1138,7 @@
    "uid": "imovirtual:19203523",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1138,7 +1160,7 @@
    "uid": "imovirtual:19201488",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1160,7 +1182,7 @@
    "uid": "imovirtual:19201195",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1182,7 +1204,7 @@
    "uid": "imovirtual:19200883",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1226,7 +1248,7 @@
    "uid": "imovirtual:19199202",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1248,7 +1270,7 @@
    "uid": "imovirtual:19197684",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1270,7 +1292,7 @@
    "uid": "imovirtual:19197671",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1292,7 +1314,7 @@
    "uid": "imovirtual:19197462",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1314,7 +1336,7 @@
    "uid": "imovirtual:19196643",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1336,7 +1358,7 @@
    "uid": "imovirtual:19195020",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1358,7 +1380,7 @@
    "uid": "imovirtual:19194885",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1380,7 +1402,7 @@
    "uid": "imovirtual:19194280",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1402,7 +1424,7 @@
    "uid": "imovirtual:19194257",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -1424,7 +1446,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-14T11:22:09+00:00"
+   "last_seen": "2026-07-14T13:21:07+00:00"
   },
   {
    "site": "imovirtual",
