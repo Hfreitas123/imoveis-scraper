@@ -13,7 +13,7 @@ localizacao:
   lon: -8.5882096
 
 filtros:
-  tipologias: [T1, T2]        # tipologias a monitorizar (T0, T1, T2, T3, ...)
+  tipologias: [T2]        # tipologias a monitorizar (T0, T1, T2, T3, ...)
   preco_maximo: 1150          # €/mês
   raio_minutos: 30            # tempo MÁXIMO a pé até ao ponto central
   velocidade_kmh: 5.0         # velocidade média de caminhada
