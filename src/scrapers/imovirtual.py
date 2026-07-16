@@ -71,10 +71,16 @@ class ImovirtualScraper(BaseScraper):
         freguesia = (addr.get("city") or {}).get("name")
         concelho = (addr.get("province") or {}).get("name")
 
-        # href vem como "[lang]/ad/...-IDxxxx"; normalizar para URL absoluto.
-        href = it.get("href") or ""
-        href = href.replace("[lang]", "pt").lstrip("/")
-        url = f"{BASE}/{href}"
+        # URL do anúncio: /pt/anuncio/<slug>. O campo `href` traz "[lang]/ad/..."
+        # mas o caminho /ad/ redireciona para 404 — o correto é /anuncio/.
+        # Construímos a partir do `slug` (mais robusto); fallback para o href.
+        slug = it.get("slug")
+        if slug:
+            url = f"{BASE}/pt/anuncio/{slug}"
+        else:
+            href = (it.get("href") or "").replace("[lang]", "pt") \
+                .replace("/ad/", "/anuncio/").lstrip("/")
+            url = f"{BASE}/{href}"
 
         area = it.get("areaInSquareMeters")
 
