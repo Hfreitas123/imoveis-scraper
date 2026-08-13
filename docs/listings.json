@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-08-13T10:53:17+00:00",
-  "total": 126
+  "generated_at": "2026-08-13T11:39:40+00:00",
+  "total": 125
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19242429",
    "first_seen": "2026-08-11T16:46:48+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:18942144",
    "first_seen": "2026-08-06T12:50:31+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19236076",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +191,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -367,7 +367,7 @@
    "uid": "imovirtual:19228980",
    "first_seen": "2026-07-30T19:09:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -895,7 +895,7 @@
    "uid": "imovirtual:19213228",
    "first_seen": "2026-07-16T16:15:25+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,7 +1181,7 @@
    "uid": "imovirtual:15845265",
    "first_seen": "2026-07-15T11:28:07+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -1225,7 +1225,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -1269,7 +1269,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -1291,7 +1291,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -1335,7 +1335,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -1357,7 +1357,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -2219,28 +2219,6 @@
   },
   {
    "site": "olx",
-   "site_id": "670652822",
-   "titulo": "Excelente T1 em condomínio privado, Mobilado e equipado",
-   "tipologia": "T1",
-   "preco": 1000,
-   "url": "https://www.olx.pt/d/anuncio/excelente-t1-em-condomnio-privado-mobilado-e-equipado-IDJnZr0.html",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 75,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/pl5teptvxzti1-PT/image;s=1600x1200",
-   "lat": 41.17627,
-   "lon": -8.60747,
-   "dist_km": 2.098468035484104,
-   "tempo_min": 25.18161642580925,
-   "geo_preciso": false,
-   "uid": "olx:670652822",
-   "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": true,
-   "last_seen": "2026-07-14T11:22:18+00:00"
-  },
-  {
-   "site": "olx",
    "site_id": "671513686",
    "titulo": "Apartamento T2 ao Hospital S. João",
    "tipologia": "T2",
@@ -2391,7 +2369,7 @@
    "uid": "imovirtual:19205816",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
@@ -2765,7 +2743,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T10:53:09+00:00"
+   "last_seen": "2026-08-13T11:39:34+00:00"
   },
   {
    "site": "imovirtual",
