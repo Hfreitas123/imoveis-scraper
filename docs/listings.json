@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-08-13T08:11:16+00:00",
-  "total": 128
+  "generated_at": "2026-08-13T09:53:54+00:00",
+  "total": 126
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19242429",
    "first_seen": "2026-08-11T16:46:48+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:18942144",
    "first_seen": "2026-08-06T12:50:31+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19236076",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +191,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -323,7 +323,7 @@
    "uid": "casasapo:f89c2814-47f2-4f2b-aecc-9e42a50bab85",
    "first_seen": "2026-07-30T19:10:02+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T01:06:11+00:00"
+   "last_seen": "2026-08-13T09:53:54+00:00"
   },
   {
    "site": "olx",
@@ -367,7 +367,7 @@
    "uid": "imovirtual:19228980",
    "first_seen": "2026-07-30T19:09:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +499,7 @@
    "uid": "imovirtual:91913284800067",
    "first_seen": "2026-07-30T17:14:55+00:00",
    "notified": true,
-   "last_seen": "2026-08-12T14:14:00+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "olx",
@@ -565,7 +565,7 @@
    "uid": "casasapo:4f21b97f-43d1-4f95-9f28-47b7398cee61",
    "first_seen": "2026-07-28T15:12:24+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T01:06:11+00:00"
+   "last_seen": "2026-08-13T09:53:54+00:00"
   },
   {
    "site": "casasapo",
@@ -587,7 +587,7 @@
    "uid": "casasapo:89f91d4d-8b71-416e-b7cf-6c7f774ed296",
    "first_seen": "2026-07-28T15:12:24+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T01:06:11+00:00"
+   "last_seen": "2026-08-13T09:53:54+00:00"
   },
   {
    "site": "olx",
@@ -895,7 +895,7 @@
    "uid": "imovirtual:19213228",
    "first_seen": "2026-07-16T16:15:25+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,7 +1181,7 @@
    "uid": "imovirtual:15845265",
    "first_seen": "2026-07-15T11:28:07+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -1225,7 +1225,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -1269,7 +1269,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -1291,7 +1291,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -1335,7 +1335,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -1357,7 +1357,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -1511,7 +1511,7 @@
    "uid": "imovirtual:19209032",
    "first_seen": "2026-07-14T17:08:41+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "casasapo",
@@ -1688,28 +1688,6 @@
    "first_seen": "2026-07-14T09:52:33+00:00",
    "notified": true,
    "last_seen": "2026-07-15T09:56:33+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "91920860200067",
-   "titulo": "EXCELENTE T1 EM ZONA DE EXCELÊNCIA - Rodeado de zonas verdes",
-   "tipologia": "T1",
-   "preco": 900,
-   "url": "https://www.imovirtual.com/pt/anuncio/excelente-t1-em-zona-de-excelencia-rodeado-de-zonas-verdes-ID1iB2a",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 51,
-   "imagem": null,
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:91920860200067",
-   "first_seen": "2026-07-14T09:52:33+00:00",
-   "notified": true,
-   "last_seen": "2026-07-14T09:52:33+00:00"
   },
   {
    "site": "casasapo",
@@ -1973,7 +1951,7 @@
    "uid": "casasapo:146e32b1-720d-11f1-9aaf-060000000054",
    "first_seen": "2026-07-13T14:28:09+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T01:06:11+00:00"
+   "last_seen": "2026-08-13T09:53:54+00:00"
   },
   {
    "site": "casasapo",
@@ -2263,28 +2241,6 @@
   },
   {
    "site": "olx",
-   "site_id": "672222897",
-   "titulo": "Apartamento T1 Kit mobilado e com terraço ao Hospital São João",
-   "tipologia": "T1",
-   "preco": 990,
-   "url": "https://www.olx.pt/d/anuncio/apartamento-t1-kit-mobilado-e-com-terrao-ao-hospital-so-joo-IDJuzSN.html",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 50,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/5pwt6yodrp0v2-PT/image;s=1280x853",
-   "lat": 41.18538,
-   "lon": -8.603918,
-   "dist_km": 2.226016495193189,
-   "tempo_min": 26.71219794231827,
-   "geo_preciso": true,
-   "uid": "olx:672222897",
-   "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": true,
-   "last_seen": "2026-07-14T09:52:41+00:00"
-  },
-  {
-   "site": "olx",
    "site_id": "671513686",
    "titulo": "Apartamento T2 ao Hospital S. João",
    "tipologia": "T2",
@@ -2435,7 +2391,7 @@
    "uid": "imovirtual:19205816",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
@@ -2809,7 +2765,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T08:11:10+00:00"
+   "last_seen": "2026-08-13T09:53:46+00:00"
   },
   {
    "site": "imovirtual",
