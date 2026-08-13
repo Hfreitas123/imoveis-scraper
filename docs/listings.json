@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-08-13T16:45:14+00:00",
-  "total": 125
+  "generated_at": "2026-08-13T17:50:04+00:00",
+  "total": 123
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19242429",
    "first_seen": "2026-08-11T16:46:48+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:18942144",
    "first_seen": "2026-08-06T12:50:31+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19236076",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +191,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -367,7 +367,7 @@
    "uid": "imovirtual:19228980",
    "first_seen": "2026-07-30T19:09:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -895,7 +895,7 @@
    "uid": "imovirtual:19213228",
    "first_seen": "2026-07-16T16:15:25+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1071,7 +1071,7 @@
    "uid": "imovirtual:91907219000067",
    "first_seen": "2026-07-16T10:53:51+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "olx",
@@ -1181,7 +1181,7 @@
    "uid": "imovirtual:15845265",
    "first_seen": "2026-07-15T11:28:07+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1225,7 +1225,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1269,7 +1269,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1291,7 +1291,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1335,7 +1335,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1357,7 +1357,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -2043,28 +2043,6 @@
   },
   {
    "site": "olx",
-   "site_id": "672270888",
-   "titulo": "Apartamento T1 Kit no Edifício Paços de São João",
-   "tipologia": "T1",
-   "preco": 950,
-   "url": "https://www.olx.pt/d/anuncio/apartamento-t1-kit-no-edifcio-paos-de-so-joo-IDJuMmQ.html",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 50,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/jkpwk54nfz1l-PT/image;s=1280x853",
-   "lat": 41.183918,
-   "lon": -8.600069,
-   "dist_km": 1.7722882159157736,
-   "tempo_min": 21.267458590989282,
-   "geo_preciso": true,
-   "uid": "olx:672270888",
-   "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": true,
-   "last_seen": "2026-07-14T17:09:05+00:00"
-  },
-  {
-   "site": "olx",
    "site_id": "672270889",
    "titulo": "Apartamento T1, Empreendimento Asprela Easy, Paranhos",
    "tipologia": "T1",
@@ -2241,28 +2219,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19207786",
-   "titulo": "Apartamento T1 Kit no Edifício Paços de São João",
-   "tipologia": "T1",
-   "preco": 950,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-kit-no-edificio-pacos-de-sao-joao-ID1iAP0",
-   "rua": "Porto",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 50,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im91MnpvZzd0Z29mdDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.uxiSXq9WDz1-2BjwU4IFZn39r1qMQ_PHfTcgXZKaYEw/image;s=655x491;q=80",
-   "lat": 41.1740514,
-   "lon": -8.5875512,
-   "dist_km": 0.223080263072457,
-   "tempo_min": 2.6769631568694843,
-   "geo_preciso": true,
-   "uid": "imovirtual:19207786",
-   "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": true,
-   "last_seen": "2026-07-14T17:08:41+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19207785",
    "titulo": "Apartamento T1, Empreendimento Asprela Easy, Paranhos",
    "tipologia": "T1",
@@ -2369,7 +2325,7 @@
    "uid": "imovirtual:19205816",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -2743,7 +2699,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-13T16:45:05+00:00"
+   "last_seen": "2026-08-13T17:49:59+00:00"
   },
   {
    "site": "imovirtual",
