@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-08-15T10:12:50+00:00",
-  "total": 83
+  "generated_at": "2026-08-15T11:10:57+00:00",
+  "total": 82
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19242429",
    "first_seen": "2026-08-11T16:46:48+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:18942144",
    "first_seen": "2026-08-06T12:50:31+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19236076",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +191,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -565,7 +565,7 @@
    "uid": "casasapo:4f21b97f-43d1-4f95-9f28-47b7398cee61",
    "first_seen": "2026-07-28T15:12:24+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:50+00:00"
+   "last_seen": "2026-08-15T11:10:57+00:00"
   },
   {
    "site": "casasapo",
@@ -587,7 +587,7 @@
    "uid": "casasapo:89f91d4d-8b71-416e-b7cf-6c7f774ed296",
    "first_seen": "2026-07-28T15:12:24+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:50+00:00"
+   "last_seen": "2026-08-15T11:10:57+00:00"
   },
   {
    "site": "olx",
@@ -895,7 +895,7 @@
    "uid": "imovirtual:19213228",
    "first_seen": "2026-07-16T16:15:25+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -939,7 +939,7 @@
    "uid": "imovirtual:91909917900067",
    "first_seen": "2026-07-16T16:15:25+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,7 +1181,7 @@
    "uid": "imovirtual:15845265",
    "first_seen": "2026-07-15T11:28:07+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -1203,7 +1203,7 @@
    "uid": "imovirtual:18319067",
    "first_seen": "2026-07-15T11:28:02+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -1225,7 +1225,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -1269,7 +1269,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -1291,29 +1291,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "91920903200067",
-   "titulo": "T2 Costa Cabral (areosa) 990€",
-   "tipologia": "T2",
-   "preco": 990,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-costa-cabral-areosa-990-ID1iB96",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 120,
-   "imagem": null,
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:91920903200067",
-   "first_seen": "2026-07-15T11:27:50+00:00",
-   "notified": true,
-   "last_seen": "2026-07-16T10:53:51+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -1335,7 +1313,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -1357,7 +1335,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -1599,7 +1577,7 @@
    "uid": "casasapo:146e32b1-720d-11f1-9aaf-060000000054",
    "first_seen": "2026-07-13T14:28:09+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:50+00:00"
+   "last_seen": "2026-08-15T11:10:57+00:00"
   },
   {
    "site": "casasapo",
@@ -1753,7 +1731,7 @@
    "uid": "imovirtual:19205816",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -1819,7 +1797,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-15T10:12:41+00:00"
+   "last_seen": "2026-08-15T11:10:49+00:00"
   },
   {
    "site": "imovirtual",
