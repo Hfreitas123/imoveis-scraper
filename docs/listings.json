@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-08-16T15:11:58+00:00",
-  "total": 74
+  "generated_at": "2026-08-16T16:13:02+00:00",
+  "total": 72
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19242429",
    "first_seen": "2026-08-11T16:46:48+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:18942144",
    "first_seen": "2026-08-06T12:50:31+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19236076",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +191,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +499,7 @@
    "uid": "imovirtual:91913284800067",
    "first_seen": "2026-07-30T17:14:55+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "olx",
@@ -565,7 +565,7 @@
    "uid": "casasapo:4f21b97f-43d1-4f95-9f28-47b7398cee61",
    "first_seen": "2026-07-28T15:12:24+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:58+00:00"
+   "last_seen": "2026-08-16T16:13:02+00:00"
   },
   {
    "site": "casasapo",
@@ -587,7 +587,7 @@
    "uid": "casasapo:89f91d4d-8b71-416e-b7cf-6c7f774ed296",
    "first_seen": "2026-07-28T15:12:24+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:58+00:00"
+   "last_seen": "2026-08-16T16:13:02+00:00"
   },
   {
    "site": "olx",
@@ -895,7 +895,7 @@
    "uid": "imovirtual:19213228",
    "first_seen": "2026-07-16T16:15:25+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -1071,7 +1071,7 @@
    "uid": "imovirtual:18319067",
    "first_seen": "2026-07-15T11:28:02+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -1093,7 +1093,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -1137,7 +1137,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -1159,7 +1159,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,7 +1181,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -1203,7 +1203,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -1423,7 +1423,7 @@
    "uid": "casasapo:146e32b1-720d-11f1-9aaf-060000000054",
    "first_seen": "2026-07-13T14:28:09+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:58+00:00"
+   "last_seen": "2026-08-16T16:13:02+00:00"
   },
   {
    "site": "casasapo",
@@ -1515,28 +1515,6 @@
   },
   {
    "site": "olx",
-   "site_id": "666455813",
-   "titulo": "Apartamento T2 duplex em Campanhã, Porto",
-   "tipologia": "T2",
-   "preco": 995,
-   "url": "https://www.olx.pt/d/anuncio/apartamento-t2-duplex-em-campanh-porto-IDJ6nBj.html",
-   "rua": null,
-   "freguesia": "Campanhã",
-   "concelho": "Porto",
-   "area_m2": 48,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/3s5648tkcyp63-PT/image;s=563x1000",
-   "lat": 41.16066,
-   "lon": -8.590822,
-   "dist_km": 2.165774845320369,
-   "tempo_min": 25.98929814384443,
-   "geo_preciso": true,
-   "uid": "olx:666455813",
-   "first_seen": "2026-07-13T14:28:05+00:00",
-   "notified": true,
-   "last_seen": "2026-07-17T16:10:38+00:00"
-  },
-  {
-   "site": "olx",
    "site_id": "671513686",
    "titulo": "Apartamento T2 ao Hospital S. João",
    "tipologia": "T2",
@@ -1577,7 +1555,7 @@
    "uid": "imovirtual:19205816",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -1603,28 +1581,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19194280",
-   "titulo": "Apartamento ao lado do Jardim do Marquês",
-   "tipologia": "T2",
-   "preco": 995,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-ao-lado-do-jardim-do-marques-ID1ixja",
-   "rua": "Rua de Faria Guimarães",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 48,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imd2bXRtd2U1Y3IxaTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.XhDeuj4OWraqjnDCW_mGLR6MiYpD4Y34FbW-SY7Up28/image;s=655x491;q=80",
-   "lat": 41.1705312,
-   "lon": -8.6051896,
-   "dist_km": 1.9829555406737662,
-   "tempo_min": 23.795466488085193,
-   "geo_preciso": true,
-   "uid": "imovirtual:19194280",
-   "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": true,
-   "last_seen": "2026-07-17T16:10:29+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19192706",
    "titulo": "Apartamento T2 para arrendamento",
    "tipologia": "T2",
@@ -1643,7 +1599,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-16T15:11:50+00:00"
+   "last_seen": "2026-08-16T16:12:53+00:00"
   }
  ]
 }
