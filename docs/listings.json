@@ -13,10 +13,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-08-21T11:17:19+00:00",
-  "total": 69
+  "generated_at": "2026-08-21T12:26:00+00:00",
+  "total": 70
  },
  "listings": [
+  {
+   "site": "imovirtual",
+   "site_id": "18942768",
+   "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
+   "tipologia": "T2",
+   "preco": 900,
+   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-ID1htSv",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 64,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9rbXE3bjR3MGtxbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d77__LvOpdAgPTHe7NjFi4HYuN93eG8m9fpKQQdLAPM/image;s=655x491;q=80",
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
+   "uid": "imovirtual:18942768",
+   "first_seen": "2026-08-21T12:25:54+00:00",
+   "notified": true,
+   "last_seen": "2026-08-21T12:25:54+00:00"
+  },
   {
    "site": "imovirtual",
    "site_id": "19251167",
@@ -37,7 +59,7 @@
    "uid": "imovirtual:19251167",
    "first_seen": "2026-08-20T16:22:27+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -59,7 +81,7 @@
    "uid": "imovirtual:91925116700067",
    "first_seen": "2026-08-20T16:22:27+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -81,7 +103,7 @@
    "uid": "imovirtual:19248387",
    "first_seen": "2026-08-18T11:16:09+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -125,7 +147,7 @@
    "uid": "imovirtual:9341356",
    "first_seen": "2026-08-17T16:15:51+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +169,7 @@
    "uid": "imovirtual:19240990",
    "first_seen": "2026-08-17T12:22:13+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +301,7 @@
    "uid": "imovirtual:18942144",
    "first_seen": "2026-08-06T12:50:31+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -301,7 +323,7 @@
    "uid": "imovirtual:19236076",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -323,7 +345,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -1115,7 +1137,7 @@
    "uid": "imovirtual:18319067",
    "first_seen": "2026-07-15T11:28:02+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -1137,7 +1159,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,7 +1203,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -1203,7 +1225,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -1225,7 +1247,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -1247,7 +1269,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -1489,7 +1511,7 @@
    "uid": "imovirtual:19205816",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -1533,7 +1555,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-21T11:17:13+00:00"
+   "last_seen": "2026-08-21T12:25:54+00:00"
   }
  ]
 }
