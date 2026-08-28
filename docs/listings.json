@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-08-28T07:54:35+00:00",
-  "total": 71
+  "generated_at": "2026-08-28T19:46:50+00:00",
+  "total": 69
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19253204",
    "first_seen": "2026-08-23T08:18:15+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19252568",
    "first_seen": "2026-08-21T19:19:24+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -125,7 +125,7 @@
    "uid": "imovirtual:19252566",
    "first_seen": "2026-08-21T19:19:24+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:18942768",
    "first_seen": "2026-08-21T12:25:54+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19251167",
    "first_seen": "2026-08-20T16:22:27+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +279,7 @@
    "uid": "imovirtual:19240990",
    "first_seen": "2026-08-17T12:22:13+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:18942144",
    "first_seen": "2026-08-06T12:50:31+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -455,7 +455,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -987,28 +987,6 @@
   },
   {
    "site": "olx",
-   "site_id": "672412673",
-   "titulo": "Apartamento T2 AREOSA Hosp. S. João - Polo Universitário - Circunvalacao",
-   "tipologia": "T2",
-   "preco": 850,
-   "url": "https://www.olx.pt/d/anuncio/apartamento-t2-areosa-hosp-s-joo-polo-universitrio-circunvalacao-IDJwnfH.html",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 90,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/m157r4aoeqw8-PT/image;s=1371x1028",
-   "lat": 41.17627,
-   "lon": -8.60747,
-   "dist_km": 2.098468035484104,
-   "tempo_min": 25.18161642580925,
-   "geo_preciso": false,
-   "uid": "olx:672412673",
-   "first_seen": "2026-07-22T11:03:59+00:00",
-   "notified": true,
-   "last_seen": "2026-07-29T17:04:38+00:00"
-  },
-  {
-   "site": "olx",
    "site_id": "671824064",
    "titulo": "T2 Areosa - Hospital São João",
    "tipologia": "T2",
@@ -1159,7 +1137,7 @@
    "uid": "imovirtual:18319067",
    "first_seen": "2026-07-15T11:28:02+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,29 +1159,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19009052",
-   "titulo": "Apartamento T2 com 2 terraços, ao Pólo Universitário, Porto - Arren...",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-2-terracos-ao-polo-universitario-porto-arren-ID1hL7C",
-   "rua": "Rua Professor Mendes Correia",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 98,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InkxbHI4bXlpempoczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.o9F6ddHnok1vBHYifkbw6etM3mw-Vq6vTVPc2rrEYFA/image;s=655x491;q=80",
-   "lat": 41.1711579,
-   "lon": -8.5946159,
-   "dist_km": 0.9392550504362693,
-   "tempo_min": 11.271060605235231,
-   "geo_preciso": true,
-   "uid": "imovirtual:19009052",
-   "first_seen": "2026-07-15T11:27:56+00:00",
-   "notified": true,
-   "last_seen": "2026-07-29T17:04:30+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -1225,7 +1181,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -1247,7 +1203,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -1269,7 +1225,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -1291,7 +1247,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -1533,7 +1489,7 @@
    "uid": "imovirtual:19205816",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -1555,7 +1511,7 @@
    "uid": "imovirtual:19196643",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-07-30T07:27:34+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   },
   {
    "site": "imovirtual",
@@ -1577,7 +1533,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-08-28T07:54:29+00:00"
+   "last_seen": "2026-08-28T19:46:41+00:00"
   }
  ]
 }
