@@ -13,10 +13,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-09-02T11:51:54+00:00",
-  "total": 65
+  "generated_at": "2026-09-02T15:36:57+00:00",
+  "total": 62
  },
  "listings": [
+  {
+   "site": "imovirtual",
+   "site_id": "19262499",
+   "titulo": "T2 C/ Terraço | Antas",
+   "tipologia": "T2",
+   "preco": 800,
+   "url": "https://www.imovirtual.com/pt/anuncio/t2-c-terraco-antas-ID1iP3t",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 52,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU2OWgydXFmYWp0ZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gutwhTc41cDvTkUmciD2PDpusWxWuFhet3eSThEP-5s/image;s=655x491;q=80",
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
+   "uid": "imovirtual:19262499",
+   "first_seen": "2026-09-02T15:36:48+00:00",
+   "notified": true,
+   "last_seen": "2026-09-02T15:36:48+00:00"
+  },
   {
    "site": "imovirtual",
    "site_id": "19253204",
@@ -103,7 +125,7 @@
    "uid": "imovirtual:19252568",
    "first_seen": "2026-08-21T19:19:24+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +169,7 @@
    "uid": "imovirtual:18942768",
    "first_seen": "2026-08-21T12:25:54+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +191,7 @@
    "uid": "imovirtual:19251167",
    "first_seen": "2026-08-20T16:22:27+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +301,7 @@
    "uid": "imovirtual:19240990",
    "first_seen": "2026-08-17T12:22:13+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -455,7 +477,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -832,94 +854,6 @@
    "last_seen": "2026-08-17T09:30:48+00:00"
   },
   {
-   "site": "olx",
-   "site_id": "672497769",
-   "titulo": "Apartamento T2+1 em Pedrouços - Areosa",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.olx.pt/d/anuncio/apartamento-t2-1-em-pedrouos-areosa-IDJwJod.html",
-   "rua": null,
-   "freguesia": "Pedrouços",
-   "concelho": "Porto",
-   "area_m2": 83,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/hwzrs0nz27sk-PT/image;s=1024x768",
-   "lat": 41.18075,
-   "lon": -8.58641,
-   "dist_km": 0.7819508404362008,
-   "tempo_min": 9.38341008523441,
-   "geo_preciso": true,
-   "uid": "olx:672497769",
-   "first_seen": "2026-07-27T18:18:31+00:00",
-   "notified": true,
-   "last_seen": "2026-08-03T12:49:50+00:00"
-  },
-  {
-   "site": "olx",
-   "site_id": "671973468",
-   "titulo": "Apartamento T2 para arrendamento",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.olx.pt/d/anuncio/apartamento-t2-para-arrendamento-IDJtvZK.html",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 66,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/ixz5nox8miqv2-PT/image;s=600x800",
-   "lat": 41.17742,
-   "lon": -8.586235,
-   "dist_km": 0.34950780719060714,
-   "tempo_min": 4.194093686287285,
-   "geo_preciso": true,
-   "uid": "olx:671973468",
-   "first_seen": "2026-07-27T18:18:31+00:00",
-   "notified": true,
-   "last_seen": "2026-08-03T12:49:50+00:00"
-  },
-  {
-   "site": "olx",
-   "site_id": "672488782",
-   "titulo": "Arrenda-se T1+1 com garagem – Próximo do Hospital de São João",
-   "tipologia": "T2",
-   "preco": 1050,
-   "url": "https://www.olx.pt/d/anuncio/arrenda-se-t1-1-com-garagem-prximo-do-hospital-de-so-joo-IDJwH3g.html",
-   "rua": null,
-   "freguesia": "Pedrouços",
-   "concelho": "Porto",
-   "area_m2": 72,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/qqywog7maxo83-PT/image;s=1848x4000",
-   "lat": 41.18987,
-   "lon": -8.5885,
-   "dist_km": 2.0756081464142637,
-   "tempo_min": 24.907297756971165,
-   "geo_preciso": false,
-   "uid": "olx:672488782",
-   "first_seen": "2026-07-27T18:18:31+00:00",
-   "notified": true,
-   "last_seen": "2026-08-03T12:49:50+00:00"
-  },
-  {
-   "site": "olx",
-   "site_id": "672488669",
-   "titulo": "Arrenda-se T1+1 com garagem – Próximo do Hospital de São João",
-   "tipologia": "T2",
-   "preco": 1050,
-   "url": "https://www.olx.pt/d/anuncio/arrenda-se-t1-1-com-garagem-prximo-do-hospital-de-so-joo-IDJwH1r.html",
-   "rua": null,
-   "freguesia": "Pedrouços",
-   "concelho": "Porto",
-   "area_m2": 72,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/4pcywiuzp9rn2-PT/image;s=473x1024",
-   "lat": 41.186043,
-   "lon": -8.593597,
-   "dist_km": 1.6311108361167697,
-   "tempo_min": 19.573330033401238,
-   "geo_preciso": false,
-   "uid": "olx:672488669",
-   "first_seen": "2026-07-27T18:18:31+00:00",
-   "notified": true,
-   "last_seen": "2026-08-03T12:49:50+00:00"
-  },
-  {
    "site": "imovirtual",
    "site_id": "19224051",
    "titulo": "Apartamento T2+1 em Pedrouços - Areosa",
@@ -1093,7 +1027,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -1115,7 +1049,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -1137,7 +1071,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -1159,7 +1093,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,7 +1115,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -1423,7 +1357,7 @@
    "uid": "imovirtual:19196643",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   },
   {
    "site": "imovirtual",
@@ -1445,7 +1379,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-02T11:51:45+00:00"
+   "last_seen": "2026-09-02T15:36:48+00:00"
   }
  ]
 }
