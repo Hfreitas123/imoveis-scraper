@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-09-03T14:48:48+00:00",
-  "total": 58
+  "generated_at": "2026-09-03T18:14:07+00:00",
+  "total": 57
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19262499",
    "first_seen": "2026-09-02T15:36:48+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -125,7 +125,7 @@
    "uid": "imovirtual:19252568",
    "first_seen": "2026-08-21T19:19:24+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:18942768",
    "first_seen": "2026-08-21T12:25:54+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +191,7 @@
    "uid": "imovirtual:19251167",
    "first_seen": "2026-08-20T16:22:27+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -301,7 +301,7 @@
    "uid": "imovirtual:19240990",
    "first_seen": "2026-08-17T12:22:13+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -477,7 +477,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -654,28 +654,6 @@
    "first_seen": "2026-07-30T19:09:49+00:00",
    "notified": true,
    "last_seen": "2026-08-14T07:09:03+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "91922898000067",
-   "titulo": "Apartamento T2 em Faria Guimarães com Garagem e Excelentes Acessos",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-faria-guimaraes-com-garagem-e-excelentes-acessos-ID1iGkQ",
-   "rua": "Travessa de Faria Guimarães",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 91,
-   "imagem": null,
-   "lat": 41.1681914,
-   "lon": -8.6068012,
-   "dist_km": 2.283090547901824,
-   "tempo_min": 27.397086574821888,
-   "geo_preciso": true,
-   "uid": "imovirtual:91922898000067",
-   "first_seen": "2026-07-30T19:09:49+00:00",
-   "notified": true,
-   "last_seen": "2026-08-04T16:07:16+00:00"
   },
   {
    "site": "imovirtual",
@@ -961,7 +939,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -983,7 +961,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1005,7 +983,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1027,7 +1005,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1049,7 +1027,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1269,7 +1247,7 @@
    "uid": "imovirtual:19196643",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1291,7 +1269,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-03T14:48:40+00:00"
+   "last_seen": "2026-09-03T18:13:59+00:00"
   }
  ]
 }
