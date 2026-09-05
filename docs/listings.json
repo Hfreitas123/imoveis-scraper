@@ -13,7 +13,7 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-09-05T21:47:44+00:00",
+  "generated_at": "2026-09-05T23:27:10+00:00",
   "total": 56
  },
  "listings": [
@@ -59,7 +59,7 @@
    "uid": "imovirtual:19238132",
    "first_seen": "2026-09-05T06:47:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -81,7 +81,7 @@
    "uid": "imovirtual:19266389",
    "first_seen": "2026-09-04T16:39:25+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19264989",
    "first_seen": "2026-09-04T16:39:25+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -125,7 +125,7 @@
    "uid": "imovirtual:91926638900067",
    "first_seen": "2026-09-04T16:39:25+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:19262499",
    "first_seen": "2026-09-02T15:36:48+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19252568",
    "first_seen": "2026-08-21T19:19:24+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +279,7 @@
    "uid": "imovirtual:18942768",
    "first_seen": "2026-08-21T12:25:54+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:19240990",
    "first_seen": "2026-08-17T12:22:13+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +587,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "olx",
@@ -961,7 +961,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -983,7 +983,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -1005,7 +1005,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -1027,7 +1027,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -1049,7 +1049,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -1225,7 +1225,7 @@
    "uid": "imovirtual:19196643",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -1247,7 +1247,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-05T21:47:35+00:00"
+   "last_seen": "2026-09-05T23:27:05+00:00"
   }
  ]
 }
