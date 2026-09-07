@@ -13,10 +13,54 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-09-07T06:47:40+00:00",
+  "generated_at": "2026-09-07T13:08:47+00:00",
   "total": 60
  },
  "listings": [
+  {
+   "site": "imovirtual",
+   "site_id": "19267696",
+   "titulo": "Arrendo T2 Pólo Universitário - mobilado e equipado",
+   "tipologia": "T2",
+   "preco": 980,
+   "url": "https://www.imovirtual.com/pt/anuncio/arrendo-t2-polo-universitario-mobilado-e-equipado-ID1iQpi",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 60,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNlbnRpdmIzN3VrZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tFnAnHMz30mTiEJ0b-5wXsvem2OEK_hyTawbXaiN9IQ/image;s=655x491;q=80",
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
+   "uid": "imovirtual:19267696",
+   "first_seen": "2026-09-07T13:08:39+00:00",
+   "notified": true,
+   "last_seen": "2026-09-07T13:08:39+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "91926769600067",
+   "titulo": "Arrendo T2 Pólo Universitário - mobilado e equipado",
+   "tipologia": "T2",
+   "preco": 980,
+   "url": "https://www.imovirtual.com/pt/anuncio/arrendo-t2-polo-universitario-mobilado-e-equipado-ID1iQpi",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 60,
+   "imagem": null,
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
+   "uid": "imovirtual:91926769600067",
+   "first_seen": "2026-09-07T13:08:39+00:00",
+   "notified": true,
+   "last_seen": "2026-09-07T13:08:39+00:00"
+  },
   {
    "site": "imovirtual",
    "site_id": "91919270600067",
@@ -59,7 +103,7 @@
    "uid": "imovirtual:19267561",
    "first_seen": "2026-09-06T19:45:23+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +147,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "casasapo",
@@ -125,7 +169,7 @@
    "uid": "casasapo:d668ff82-92b4-11f1-9c13-060000000051",
    "first_seen": "2026-09-05T11:03:05+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:40+00:00"
+   "last_seen": "2026-09-07T13:08:47+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +191,7 @@
    "uid": "imovirtual:19238132",
    "first_seen": "2026-09-05T06:47:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +213,7 @@
    "uid": "imovirtual:19266389",
    "first_seen": "2026-09-04T16:39:25+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +235,7 @@
    "uid": "imovirtual:19264989",
    "first_seen": "2026-09-04T16:39:25+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +279,7 @@
    "uid": "imovirtual:19262499",
    "first_seen": "2026-09-02T15:36:48+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -323,7 +367,7 @@
    "uid": "imovirtual:19252568",
    "first_seen": "2026-08-21T19:19:24+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -367,7 +411,7 @@
    "uid": "imovirtual:18942768",
    "first_seen": "2026-08-21T12:25:54+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +543,7 @@
    "uid": "imovirtual:19240990",
    "first_seen": "2026-08-17T12:22:13+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -675,29 +719,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
-  },
-  {
-   "site": "olx",
-   "site_id": "670514847",
-   "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.olx.pt/d/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-IDJnpxB.html",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 65,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/hzbog7rcyqoq3-PT/image;s=1000x668",
-   "lat": 41.164135,
-   "lon": -8.60525,
-   "dist_km": 2.4785652596595313,
-   "tempo_min": 29.742783115914378,
-   "geo_preciso": false,
-   "uid": "olx:670514847",
-   "first_seen": "2026-08-03T15:37:50+00:00",
-   "notified": true,
-   "last_seen": "2026-08-08T11:20:28+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "olx",
@@ -1049,7 +1071,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -1071,7 +1093,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -1093,7 +1115,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -1115,7 +1137,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -1137,29 +1159,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19137336",
-   "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-ID1iiuI",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 65,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IndzYWxuMGxuM2gyazMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ylggJfGJhltT0-6Lt4MighjFvs_noiSDdNAWvHd0NPE/image;s=655x491;q=80",
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:19137336",
-   "first_seen": "2026-07-15T11:27:47+00:00",
-   "notified": true,
-   "last_seen": "2026-08-08T11:20:20+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -1313,7 +1313,7 @@
    "uid": "imovirtual:19196643",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -1335,7 +1335,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T06:47:33+00:00"
+   "last_seen": "2026-09-07T13:08:39+00:00"
   }
  ]
 }
