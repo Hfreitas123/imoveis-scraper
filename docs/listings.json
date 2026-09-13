@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-09-13T02:04:22+00:00",
-  "total": 55
+  "generated_at": "2026-09-13T07:45:58+00:00",
+  "total": 53
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19273537",
    "first_seen": "2026-09-11T14:42:15+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +213,7 @@
    "uid": "imovirtual:19267696",
    "first_seen": "2026-09-07T13:08:39+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -323,7 +323,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "casasapo",
@@ -367,7 +367,7 @@
    "uid": "imovirtual:19238132",
    "first_seen": "2026-09-05T06:47:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:19264989",
    "first_seen": "2026-09-04T16:39:25+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +543,7 @@
    "uid": "imovirtual:19252568",
    "first_seen": "2026-08-21T19:19:24+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -807,51 +807,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
-  },
-  {
-   "site": "casasapo",
-   "site_id": "f89c2814-47f2-4f2b-aecc-9e42a50bab85",
-   "titulo": "Apartamento T2 · Paranhos, Porto",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://casa.sapo.pt/alugar-apartamento-porto-paranhos-f89c2814-47f2-4f2b-aecc-9e42a50bab85.html",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 91,
-   "imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "casasapo:f89c2814-47f2-4f2b-aecc-9e42a50bab85",
-   "first_seen": "2026-07-30T19:10:02+00:00",
-   "notified": true,
-   "last_seen": "2026-08-14T05:25:55+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19228980",
-   "titulo": "Apartamento T2 em Faria Guimarães com Garagem e Excelentes Acessos",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-faria-guimaraes-com-garagem-e-excelentes-acessos-ID1iGkQ",
-   "rua": "Travessa de Faria Guimarães",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 91,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InEwcDlzb3E2MmZzbjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DQAAJ4ntoDc-JTavNVDIhJ7bw4GIlf1w3APZvk3T6tM/image;s=655x491;q=80",
-   "lat": 41.1681914,
-   "lon": -8.6068012,
-   "dist_km": 2.283090547901824,
-   "tempo_min": 27.397086574821888,
-   "geo_preciso": true,
-   "uid": "imovirtual:19228980",
-   "first_seen": "2026-07-30T19:09:49+00:00",
-   "notified": true,
-   "last_seen": "2026-08-14T07:09:03+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -1049,7 +1005,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -1071,7 +1027,7 @@
    "uid": "imovirtual:19011391",
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -1093,7 +1049,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -1115,7 +1071,7 @@
    "uid": "imovirtual:19132848",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -1137,7 +1093,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   },
   {
    "site": "casasapo",
@@ -1225,7 +1181,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-13T02:04:16+00:00"
+   "last_seen": "2026-09-13T07:45:52+00:00"
   }
  ]
 }
