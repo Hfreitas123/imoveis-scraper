@@ -13,7 +13,7 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-09-20T19:58:54+00:00",
+  "generated_at": "2026-09-20T22:11:49+00:00",
   "total": 54
  },
  "listings": [
@@ -24,20 +24,20 @@
    "tipologia": "T2",
    "preco": 1000,
    "url": "https://www.imovirtual.com/pt/anuncio/t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iTtq",
-   "rua": "Rua Henrique de Sousa Reis",
-   "freguesia": null,
-   "concelho": null,
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
    "area_m2": 47,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNrdzBvNTNodnB6NC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.JDtTRDm3IeCVAPgGhvnG2yVf68c_uWF7Ah9Ga0nqSkU/image;s=655x491;q=80",
-   "lat": 41.1768208,
-   "lon": -8.5923849,
-   "dist_km": 0.49205894823652446,
-   "tempo_min": 5.904707378838293,
-   "geo_preciso": true,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNrdzBvNTNodnB6NC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.eoGyrFxn8inck8zGVyLBixqwCtXCtqeiYulMUGYNloM/image;s=655x491;q=80",
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
    "uid": "imovirtual:19279484",
    "first_seen": "2026-09-17T17:52:41+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -46,20 +46,20 @@
    "tipologia": "T2",
    "preco": 1000,
    "url": "https://www.imovirtual.com/pt/anuncio/t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iTtq",
-   "rua": "Rua Henrique de Sousa Reis",
-   "freguesia": null,
-   "concelho": null,
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
    "area_m2": 47,
    "imagem": null,
-   "lat": 41.1768208,
-   "lon": -8.5923849,
-   "dist_km": 0.49205894823652446,
-   "tempo_min": 5.904707378838293,
-   "geo_preciso": true,
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
    "uid": "imovirtual:91927948400067",
    "first_seen": "2026-09-17T17:52:41+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -69,10 +69,10 @@
    "preco": 1080,
    "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-2-estudantes-ID1iN9j",
    "rua": "Rua Conde de Aurora",
-   "freguesia": null,
-   "concelho": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
    "area_m2": 65,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjM4Z2phOWoycnJtazItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.g7oT40eqsvEdLUff69CBZDK6e0-GbWcJBD14pINy6ik/image;s=655x491;q=80",
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjM4Z2phOWoycnJtazItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.mIdTu0EgfZQY-J7vdjxgugRSZxDzaZpKXJy0YKYL6GE/image;s=655x491;q=80",
    "lat": 41.1747799,
    "lon": -8.6103098,
    "dist_km": 2.4069550706286225,
@@ -81,7 +81,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -91,19 +91,19 @@
    "preco": 1150,
    "url": "https://www.imovirtual.com/pt/anuncio/t2-arrenda-se-em-paranhos-pronto-a-habitar-ID1iQvE",
    "rua": "Rua de Diogo Cão",
-   "freguesia": null,
-   "concelho": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
    "area_m2": 95,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1pb3VyMW83bm9waTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.E65uhN24iq7z4NFjwDigxYS9wL0iyY9Af1XCPGvKRUw/image;s=655x491;q=80",
-   "lat": 41.1653788,
-   "lon": -8.5926311,
-   "dist_km": 1.5419017273548283,
-   "tempo_min": 18.50282072825794,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1pb3VyMW83bm9waTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.nObFKzRIzwuZFiYarP4UnaYKmGSx4ejEcJ24YL0QLJI/image;s=655x491;q=80",
+   "lat": 41.166969,
+   "lon": -8.5912684,
+   "dist_km": 1.2791116012073116,
+   "tempo_min": 15.34933921448774,
    "geo_preciso": true,
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -157,10 +157,10 @@
    "preco": 950,
    "url": "https://www.imovirtual.com/pt/anuncio/t2-a-antas-vistas-desafogadas-roupeiros-e-cozinha-equipada-ID1iSqF",
    "rua": "Praceta Irene de Castro",
-   "freguesia": null,
-   "concelho": null,
+   "freguesia": "Campanhã",
+   "concelho": "Porto",
    "area_m2": 77,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFiOG02bTFudzhqYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9PgotQp3s44H9naJEql3IBWlvtX2Ce-Vgb5LLQOFfa8/image;s=655x491;q=80",
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InFiOG02bTFudzhqYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.aN-xsgxgAHyjcJXeN_dzB1RpeQMP_ZXnex7EVPH2Sgc/image;s=655x491;q=80",
    "lat": 41.167862,
    "lon": -8.5854038,
    "dist_km": 1.147329565189684,
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -201,10 +201,10 @@
    "preco": 1050,
    "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-apartamento-quartos-ID1iShu",
    "rua": "Rua Areosa",
-   "freguesia": null,
-   "concelho": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
    "area_m2": 92,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg3N3B3MWFlajVoNDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9EsGjEykaqmxokC6JHzlpVwJZKTrxKRWaBgliMW5qHo/image;s=655x491;q=80",
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijg3N3B3MWFlajVoNDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.slv_S-cWJYUORFUhFOW5_xvQ5EBUHATm_wOLPFxdABE/image;s=655x491;q=80",
    "lat": 41.1775668,
    "lon": -8.5916668,
    "dist_km": 0.47920819164416467,
@@ -213,7 +213,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -377,19 +377,19 @@
    "preco": 1100,
    "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iRjR",
    "rua": "Rua Álvaro de Castelões",
-   "freguesia": null,
-   "concelho": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
    "area_m2": 80,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg2ZzV4dzZyM245bTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3YUibAlM2oI0IK32G3wfWRd5qsAcoOR4E-mO3OEZYoo/image;s=655x491;q=80",
-   "lat": 41.1665479,
-   "lon": -8.603408,
-   "dist_km": 2.1010413736783646,
-   "tempo_min": 25.212496484140374,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijg2ZzV4dzZyM245bTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.d3ExPpmCNfG63ArSwPqSzxw-RLGGN_zXsaD6OZjwkV0/image;s=655x491;q=80",
+   "lat": 41.1705751,
+   "lon": -8.6036599,
+   "dist_km": 1.8263831871962144,
+   "tempo_min": 21.916598246354575,
    "geo_preciso": true,
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +543,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "casasapo",
@@ -587,7 +587,7 @@
    "uid": "imovirtual:19238132",
    "first_seen": "2026-09-05T06:47:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-19T16:53:57+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -631,7 +631,7 @@
    "uid": "imovirtual:19264989",
    "first_seen": "2026-09-04T16:39:25+00:00",
    "notified": true,
-   "last_seen": "2026-09-19T16:53:57+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -763,7 +763,7 @@
    "uid": "imovirtual:19252568",
    "first_seen": "2026-08-21T19:19:24+00:00",
    "notified": true,
-   "last_seen": "2026-09-19T16:53:57+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -948,20 +948,20 @@
    "tipologia": "T2",
    "preco": 900,
    "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-ID1iIbh",
-   "rua": "Rua de São Tomé",
-   "freguesia": null,
-   "concelho": null,
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
    "area_m2": 88,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRuMmE1bHRhaG8xMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NmhHp_VEHizxQ5KdncOglQeaYuEbI78gs7zbNud3VIU/image;s=655x491;q=80",
-   "lat": 41.1805052,
-   "lon": -8.6093633,
-   "dist_km": 2.412023242816088,
-   "tempo_min": 28.944278913793056,
-   "geo_preciso": true,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRuMmE1bHRhaG8xMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.tUbl_sQoY1CYGnwYXe_ZVmzdTMEF8QFk8FMYLEeNrzA/image;s=655x491;q=80",
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -1071,7 +1071,7 @@
    "uid": "imovirtual:19072190",
    "first_seen": "2026-07-15T11:27:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "imovirtual",
@@ -1115,7 +1115,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   },
   {
    "site": "casasapo",
@@ -1203,7 +1203,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-20T19:58:49+00:00"
+   "last_seen": "2026-09-20T22:11:44+00:00"
   }
  ]
 }
