@@ -13,7 +13,7 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-09-25T10:49:16+00:00",
+  "generated_at": "2026-09-25T15:40:08+00:00",
   "total": 58
  },
  "listings": [
@@ -59,7 +59,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19279484",
    "first_seen": "2026-09-17T17:52:41+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +213,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -301,7 +301,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -345,7 +345,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +521,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -675,7 +675,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "casasapo",
@@ -1049,7 +1049,7 @@
    "uid": "imovirtual:19236075",
    "first_seen": "2026-08-06T12:50:30+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1115,7 +1115,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "imovirtual",
@@ -1203,7 +1203,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   },
   {
    "site": "casasapo",
@@ -1291,7 +1291,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-25T10:49:08+00:00"
+   "last_seen": "2026-09-25T15:39:59+00:00"
   }
  ]
 }
