@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-09-26T11:57:26+00:00",
-  "total": 59
+  "generated_at": "2026-09-26T15:39:17+00:00",
+  "total": 58
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19288575",
    "first_seen": "2026-09-25T19:42:20+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -59,7 +59,7 @@
    "uid": "imovirtual:91928857500067",
    "first_seen": "2026-09-25T19:42:20+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -257,7 +257,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +279,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -345,7 +345,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -389,7 +389,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -565,7 +565,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -719,7 +719,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "casasapo",
@@ -965,28 +965,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19248387",
-   "titulo": "Apartamento T1Kit Evolutivo ao Hospital de São João",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1kit-evolutivo-ao-hospital-de-sao-joao-ID1iLnR",
-   "rua": "Porto",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 65,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNuNHR4dzlxdDZpdTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.6O31u9nFyen3xWz0HMA_AeAF-g83aWgFNyIWF3lsRO0/image;s=655x491;q=80",
-   "lat": 41.1740514,
-   "lon": -8.5875512,
-   "dist_km": 0.223080263072457,
-   "tempo_min": 2.6769631568694843,
-   "geo_preciso": true,
-   "uid": "imovirtual:19248387",
-   "first_seen": "2026-08-18T11:16:09+00:00",
-   "notified": true,
-   "last_seen": "2026-08-27T13:20:03+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "9341356",
    "titulo": "Apartamento ao hospital de S. João",
    "tipologia": "T2",
@@ -1159,7 +1137,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -1247,7 +1225,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -1313,7 +1291,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-26T11:57:20+00:00"
+   "last_seen": "2026-09-26T15:39:11+00:00"
   }
  ]
 }
