@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-09-29T02:24:22+00:00",
-  "total": 55
+  "generated_at": "2026-09-29T09:16:35+00:00",
+  "total": 54
  },
  "listings": [
   {
@@ -125,7 +125,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +279,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -301,7 +301,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -367,7 +367,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +587,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -660,11 +660,11 @@
    "site_id": "91919270600067",
    "titulo": "Apartamento T2 para arrendamento",
    "tipologia": "T2",
-   "preco": 1000,
+   "preco": 900,
    "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1ivTM",
    "rua": "Rua Areosa",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
+   "freguesia": null,
+   "concelho": null,
    "area_m2": 66,
    "imagem": null,
    "lat": 41.1775668,
@@ -675,7 +675,7 @@
    "uid": "imovirtual:91919270600067",
    "first_seen": "2026-09-06T19:45:24+00:00",
    "notified": true,
-   "last_seen": "2026-09-07T18:29:20+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -741,7 +741,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "casasapo",
@@ -874,28 +874,6 @@
    "first_seen": "2026-09-02T15:36:48+00:00",
    "notified": true,
    "last_seen": "2026-09-09T14:54:27+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19253204",
-   "titulo": "Apartamento estudantes porto asprela feup",
-   "tipologia": "T2",
-   "preco": 300,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-estudantes-porto-asprela-feup-ID1iMDy",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 98,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjkxdzE2NHdjeTdpcC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.NvXdOlSWJw6FXGiOF5dBEIRzj0FcOklFrZxxDXUNAcw/image;s=655x491;q=80",
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:19253204",
-   "first_seen": "2026-08-23T08:18:15+00:00",
-   "notified": true,
-   "last_seen": "2026-08-30T08:40:39+00:00"
   },
   {
    "site": "imovirtual",
@@ -1093,7 +1071,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,7 +1159,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -1225,7 +1203,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-09-29T02:24:17+00:00"
+   "last_seen": "2026-09-29T09:16:29+00:00"
   }
  ]
 }
