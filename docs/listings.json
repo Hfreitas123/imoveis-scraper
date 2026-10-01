@@ -13,10 +13,54 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-01T15:49:36+00:00",
-  "total": 53
+  "generated_at": "2026-10-01T20:40:49+00:00",
+  "total": 55
  },
  "listings": [
+  {
+   "site": "imovirtual",
+   "site_id": "19295064",
+   "titulo": "Apartamento T2 para arrendamento",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iXvI",
+   "rua": "Rua Doutor Joaquim Pires de Lima",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 98,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY2NzRsdjRrdmJsby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.2sIOYntWfUK6AtvzPo34jWYeCZyINsfMGb8XzpMNH8Q/image;s=655x491;q=80",
+   "lat": 41.1669372,
+   "lon": -8.5972416,
+   "dist_km": 1.5819604580566482,
+   "tempo_min": 18.98352549667978,
+   "geo_preciso": true,
+   "uid": "imovirtual:19295064",
+   "first_seen": "2026-10-01T20:40:40+00:00",
+   "notified": true,
+   "last_seen": "2026-10-01T20:40:40+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "91929506400067",
+   "titulo": "Apartamento T2 para arrendamento",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iXvI",
+   "rua": "Rua Doutor Joaquim Pires de Lima",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 98,
+   "imagem": null,
+   "lat": 41.1669372,
+   "lon": -8.5972416,
+   "dist_km": 1.5819604580566482,
+   "tempo_min": 18.98352549667978,
+   "geo_preciso": true,
+   "uid": "imovirtual:91929506400067",
+   "first_seen": "2026-10-01T20:40:40+00:00",
+   "notified": true,
+   "last_seen": "2026-10-01T20:40:40+00:00"
+  },
   {
    "site": "imovirtual",
    "site_id": "16206804",
@@ -37,7 +81,7 @@
    "uid": "imovirtual:16206804",
    "first_seen": "2026-09-28T16:23:48+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -125,7 +169,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +323,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -301,7 +345,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -367,7 +411,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +455,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +631,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -741,7 +785,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "casasapo",
@@ -1049,7 +1093,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -1137,7 +1181,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,7 +1225,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-01T15:49:25+00:00"
+   "last_seen": "2026-10-01T20:40:40+00:00"
   }
  ]
 }
