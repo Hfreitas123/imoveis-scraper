@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-04T08:58:30+00:00",
-  "total": 53
+  "generated_at": "2026-10-04T14:38:38+00:00",
+  "total": 52
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19295064",
    "first_seen": "2026-10-01T20:40:40+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "imovirtual",
@@ -323,7 +323,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "imovirtual",
@@ -345,7 +345,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "imovirtual",
@@ -455,7 +455,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "imovirtual",
@@ -631,7 +631,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "imovirtual",
@@ -785,7 +785,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "casasapo",
@@ -965,28 +965,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19251167",
-   "titulo": "T2 Mobilado junto ao Hospital de São João | Asprela | Cozinha Equipada",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iM6H",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 47,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNtZG5mM2h2OGozaTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DmmMIBTp4Os7-VFFA3yAc9kDBeNf9ALsSxwKI6xnyHM/image;s=655x491;q=80",
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:19251167",
-   "first_seen": "2026-08-20T16:22:27+00:00",
-   "notified": true,
-   "last_seen": "2026-09-04T12:21:41+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19240990",
    "titulo": "T2+1 Renovado junto a Arca d’Água",
    "tipologia": "T2",
@@ -1049,7 +1027,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "imovirtual",
@@ -1137,7 +1115,7 @@
    "uid": "imovirtual:19099179",
    "first_seen": "2026-07-15T11:27:49+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   },
   {
    "site": "imovirtual",
@@ -1181,7 +1159,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-04T08:58:25+00:00"
+   "last_seen": "2026-10-04T14:38:33+00:00"
   }
  ]
 }
