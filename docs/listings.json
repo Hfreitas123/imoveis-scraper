@@ -13,10 +13,54 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-06T16:23:51+00:00",
-  "total": 51
+  "generated_at": "2026-10-06T21:23:26+00:00",
+  "total": 53
  },
  "listings": [
+  {
+   "site": "imovirtual",
+   "site_id": "19299200",
+   "titulo": "Apartamento T2, na zona da Rua Costa Cabral, junto ao Metro, dispon...",
+   "tipologia": "T2",
+   "preco": 1000,
+   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-na-zona-da-rua-costa-cabral-junto-ao-metro-dispon-ID1iYBq",
+   "rua": "Rua Engenheiro Machado Vaz",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 90,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRrNXBuM2h1dDFsNDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qvPhdhdKYhDrAuxcJdm55G2F6w0NqctsHWhHWp3Dccs/image;s=655x491;q=80",
+   "lat": 41.1648173,
+   "lon": -8.5798838,
+   "dist_km": 1.791966963539309,
+   "tempo_min": 21.503603562471707,
+   "geo_preciso": true,
+   "uid": "imovirtual:19299200",
+   "first_seen": "2026-10-06T21:23:21+00:00",
+   "notified": true,
+   "last_seen": "2026-10-06T21:23:21+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "91929920000067",
+   "titulo": "Apartamento T2, na zona da Rua Costa Cabral, junto ao Metro, dispon...",
+   "tipologia": "T2",
+   "preco": 1000,
+   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-na-zona-da-rua-costa-cabral-junto-ao-metro-dispon-ID1iYBq",
+   "rua": "Rua Engenheiro Machado Vaz",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 90,
+   "imagem": null,
+   "lat": 41.1648173,
+   "lon": -8.5798838,
+   "dist_km": 1.791966963539309,
+   "tempo_min": 21.503603562471707,
+   "geo_preciso": true,
+   "uid": "imovirtual:91929920000067",
+   "first_seen": "2026-10-06T21:23:21+00:00",
+   "notified": true,
+   "last_seen": "2026-10-06T21:23:21+00:00"
+  },
   {
    "site": "imovirtual",
    "site_id": "19295064",
@@ -37,7 +81,7 @@
    "uid": "imovirtual:19295064",
    "first_seen": "2026-10-01T20:40:40+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +213,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -323,7 +367,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -345,7 +389,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +455,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -455,7 +499,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -631,7 +675,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -785,7 +829,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   },
   {
    "site": "casasapo",
@@ -1005,7 +1049,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -1137,7 +1181,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-06T16:23:46+00:00"
+   "last_seen": "2026-10-06T21:23:21+00:00"
   }
  ]
 }
