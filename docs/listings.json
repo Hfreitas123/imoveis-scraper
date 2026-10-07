@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-07T14:54:40+00:00",
-  "total": 51
+  "generated_at": "2026-10-07T20:19:18+00:00",
+  "total": 50
  },
  "listings": [
   {
@@ -37,7 +37,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -81,7 +81,7 @@
    "uid": "imovirtual:19295064",
    "first_seen": "2026-10-01T20:40:40+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +213,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -367,7 +367,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -389,7 +389,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -455,7 +455,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +499,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -675,7 +675,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -723,28 +723,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "91926769600067",
-   "titulo": "Arrendo T2 Pólo Universitário - mobilado e equipado",
-   "tipologia": "T2",
-   "preco": 980,
-   "url": "https://www.imovirtual.com/pt/anuncio/arrendo-t2-polo-universitario-mobilado-e-equipado-ID1iQpi",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 60,
-   "imagem": null,
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:91926769600067",
-   "first_seen": "2026-09-07T13:08:39+00:00",
-   "notified": true,
-   "last_seen": "2026-09-07T18:29:20+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "91919270600067",
    "titulo": "Apartamento T2 para arrendamento",
    "tipologia": "T2",
@@ -785,7 +763,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "casasapo",
@@ -1005,7 +983,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -1137,7 +1115,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-07T14:54:34+00:00"
+   "last_seen": "2026-10-07T20:19:12+00:00"
   }
  ]
 }
