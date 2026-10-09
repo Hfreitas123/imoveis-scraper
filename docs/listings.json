@@ -13,10 +13,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-09T19:54:15+00:00",
-  "total": 50
+  "generated_at": "2026-10-09T23:42:03+00:00",
+  "total": 51
  },
  "listings": [
+  {
+   "site": "casasapo",
+   "site_id": "22238706-c3cd-11f1-9aaf-060000000054",
+   "titulo": "Apartamento T2 · Paranhos, Porto, Distrito do Porto",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://casa.sapo.pt/alugar-apartamento-t2-porto-paranhos-22238706-c3cd-11f1-9aaf-060000000054.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 76,
+   "imagem": "https://media.casasapo.pt/Z360x270/OAYES/S5/C11567/P31198791/Tphoto/ID470edc01-0000-0500-0000-00001a965631.jpg.webp",
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
+   "uid": "casasapo:22238706-c3cd-11f1-9aaf-060000000054",
+   "first_seen": "2026-10-09T23:42:03+00:00",
+   "notified": true,
+   "last_seen": "2026-10-09T23:42:03+00:00"
+  },
   {
    "site": "imovirtual",
    "site_id": "91930396600067",
@@ -37,7 +59,7 @@
    "uid": "imovirtual:91930396600067",
    "first_seen": "2026-10-09T19:54:09+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -59,7 +81,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:08+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -81,7 +103,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -125,7 +147,7 @@
    "uid": "imovirtual:19295064",
    "first_seen": "2026-10-01T20:40:40+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -257,7 +279,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +433,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -433,7 +455,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +521,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +565,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -719,7 +741,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -785,7 +807,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "casasapo",
@@ -983,7 +1005,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -1115,7 +1137,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-09T19:54:09+00:00"
+   "last_seen": "2026-10-09T23:41:55+00:00"
   }
  ]
 }
