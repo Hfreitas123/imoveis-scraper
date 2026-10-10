@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-10T10:14:44+00:00",
-  "total": 50
+  "generated_at": "2026-10-10T16:00:31+00:00",
+  "total": 46
  },
  "listings": [
   {
@@ -59,7 +59,7 @@
    "uid": "imovirtual:91930396600067",
    "first_seen": "2026-10-09T19:54:09+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -81,7 +81,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:19295064",
    "first_seen": "2026-10-01T20:40:40+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +279,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -433,7 +433,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -455,7 +455,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +521,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -565,7 +565,7 @@
    "uid": "imovirtual:19274900",
    "first_seen": "2026-09-13T21:55:51+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -657,50 +657,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19271490",
-   "titulo": "Apartamento T2 para arrendamento",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iRou",
-   "rua": "Travessa Lamas",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 125,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNseDkxZTI0cXBqdi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.lgPVcRajCYMMh74T-nz5xSC0rRAHm1OvLmC1KVQjQho/image;s=655x491;q=80",
-   "lat": 41.1762402,
-   "lon": -8.5945525,
-   "dist_km": 0.6980962638689833,
-   "tempo_min": 8.3771551664278,
-   "geo_preciso": true,
-   "uid": "imovirtual:19271490",
-   "first_seen": "2026-09-10T12:29:29+00:00",
-   "notified": true,
-   "last_seen": "2026-09-10T12:29:29+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "91927149000067",
-   "titulo": "Apartamento T2 para arrendamento",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iRou",
-   "rua": "Travessa Lamas",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 125,
-   "imagem": null,
-   "lat": 41.1762402,
-   "lon": -8.5945525,
-   "dist_km": 0.6980962638689833,
-   "tempo_min": 8.3771551664278,
-   "geo_preciso": true,
-   "uid": "imovirtual:91927149000067",
-   "first_seen": "2026-09-10T12:29:29+00:00",
-   "notified": true,
-   "last_seen": "2026-09-10T12:29:29+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19271203",
    "titulo": "Apartamento T2 para arrendamento",
    "tipologia": "T2",
@@ -719,7 +675,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -785,7 +741,7 @@
    "uid": "imovirtual:19145803",
    "first_seen": "2026-09-06T14:37:12+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "casasapo",
@@ -830,28 +786,6 @@
    "first_seen": "2026-09-05T06:47:12+00:00",
    "notified": true,
    "last_seen": "2026-09-20T22:11:44+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19266389",
-   "titulo": "T2 Mobilado junto ao Hospital de São João | Asprela | Cozinha Equipada",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iQ4d",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 47,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjFqOHkzcXVhdnM2bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.U8-Xd-Alw9qQYK4eYFwtHTm_oLle4s11HwdKEMvvS9Y/image;s=655x491;q=80",
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:19266389",
-   "first_seen": "2026-09-04T16:39:25+00:00",
-   "notified": true,
-   "last_seen": "2026-09-10T12:29:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -983,7 +917,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -1075,28 +1009,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19196643",
-   "titulo": "Apartamento T2 no Amial",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-no-amial-ID1ixWh",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 85,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJ4cnIydmtzMTlnaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.wCe-qfZD-R4-0HSJavnsN4dlAt7PgvzGIh-feCoybsU/image;s=655x491;q=80",
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:19196643",
-   "first_seen": "2026-07-13T14:27:58+00:00",
-   "notified": true,
-   "last_seen": "2026-09-10T12:29:29+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19192706",
    "titulo": "Apartamento T2 para arrendamento",
    "tipologia": "T2",
@@ -1115,7 +1027,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-10T10:14:39+00:00"
+   "last_seen": "2026-10-10T16:00:25+00:00"
   }
  ]
 }
