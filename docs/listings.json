@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-14T08:11:11+00:00",
-  "total": 41
+  "generated_at": "2026-10-14T14:11:16+00:00",
+  "total": 40
  },
  "listings": [
   {
@@ -81,7 +81,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:19295064",
    "first_seen": "2026-10-01T20:40:40+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +279,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -433,7 +433,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -455,7 +455,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +521,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -569,28 +569,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "91927490000067",
-   "titulo": "Arrenda-se Apartamento/quartos",
-   "tipologia": "T2",
-   "preco": 1050,
-   "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-apartamento-quartos-ID1iShu",
-   "rua": "Rua Areosa",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 92,
-   "imagem": null,
-   "lat": 41.1775668,
-   "lon": -8.5916668,
-   "dist_km": 0.47920819164416467,
-   "tempo_min": 5.750498299729976,
-   "geo_preciso": true,
-   "uid": "imovirtual:91927490000067",
-   "first_seen": "2026-09-13T21:55:51+00:00",
-   "notified": true,
-   "last_seen": "2026-09-14T08:17:25+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19273537",
    "titulo": "T2 Mobilado junto ao Hospital de São João | Asprela | Cozinha Equipada",
    "tipologia": "T2",
@@ -631,7 +609,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -807,7 +785,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -917,7 +895,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
+   "last_seen": "2026-10-14T14:11:11+00:00"
   }
  ]
 }
