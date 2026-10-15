@@ -13,10 +13,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-15T17:29:34+00:00",
-  "total": 40
+  "generated_at": "2026-10-15T20:42:11+00:00",
+  "total": 41
  },
  "listings": [
+  {
+   "site": "imovirtual",
+   "site_id": "9000062225",
+   "titulo": "T2 com varanda e elevador em Paranhos, junto à Costa Cabral",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.imovirtual.com/pt/anuncio/t2-com-varanda-e-elevador-em-paranhos-junto-a-costa-cabral-ID1j1d4",
+   "rua": "4200-262 | Paranhos, Porto, Rua Diogo Cão",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 85,
+   "imagem": null,
+   "lat": 41.1846879,
+   "lon": -8.6058664,
+   "dist_km": 2.334372055419443,
+   "tempo_min": 28.012464665033317,
+   "geo_preciso": true,
+   "uid": "imovirtual:9000062225",
+   "first_seen": "2026-10-15T20:42:03+00:00",
+   "notified": true,
+   "last_seen": "2026-10-15T20:42:03+00:00"
+  },
   {
    "site": "imovirtual",
    "site_id": "9000062223",
@@ -59,7 +81,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +125,7 @@
    "uid": "casasapo:22238706-c3cd-11f1-9aaf-060000000054",
    "first_seen": "2026-10-09T23:42:03+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:34+00:00"
+   "last_seen": "2026-10-15T20:42:11+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +169,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +191,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +235,7 @@
    "uid": "imovirtual:19295064",
    "first_seen": "2026-10-01T20:40:40+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +521,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +543,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -565,7 +587,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -631,7 +653,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -785,7 +807,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -895,7 +917,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T17:29:25+00:00"
+   "last_seen": "2026-10-15T20:42:03+00:00"
   }
  ]
 }
