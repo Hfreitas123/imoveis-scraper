@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-15T06:42:55+00:00",
-  "total": 42
+  "generated_at": "2026-10-15T12:17:13+00:00",
+  "total": 41
  },
  "listings": [
   {
@@ -59,7 +59,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +103,7 @@
    "uid": "casasapo:22238706-c3cd-11f1-9aaf-060000000054",
    "first_seen": "2026-10-09T23:42:03+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:55+00:00"
+   "last_seen": "2026-10-15T12:17:13+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +213,7 @@
    "uid": "imovirtual:19295064",
    "first_seen": "2026-10-01T20:40:40+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -345,7 +345,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +499,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +521,7 @@
    "uid": "imovirtual:19268152",
    "first_seen": "2026-09-15T17:56:50+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,29 +587,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "91927546900067",
-   "titulo": "T2 à Antas- vistas desafogadas- roupeiros e cozinha equipada",
-   "tipologia": "T2",
-   "preco": 950,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-a-antas-vistas-desafogadas-roupeiros-e-cozinha-equipada-ID1iSqF",
-   "rua": "Praceta Irene de Castro",
-   "freguesia": "Campanhã",
-   "concelho": "Porto",
-   "area_m2": 77,
-   "imagem": null,
-   "lat": 41.167862,
-   "lon": -8.5854038,
-   "dist_km": 1.147329565189684,
-   "tempo_min": 13.767954782276208,
-   "geo_preciso": true,
-   "uid": "imovirtual:91927546900067",
-   "first_seen": "2026-09-14T15:25:41+00:00",
-   "notified": true,
-   "last_seen": "2026-09-15T08:09:45+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -675,7 +653,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -829,7 +807,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -939,7 +917,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-15T06:42:47+00:00"
+   "last_seen": "2026-10-15T12:17:04+00:00"
   }
  ]
 }
