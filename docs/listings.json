@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-17T11:50:44+00:00",
-  "total": 42
+  "generated_at": "2026-10-17T14:39:07+00:00",
+  "total": 41
  },
  "listings": [
   {
@@ -125,7 +125,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-10-17T11:50:39+00:00"
+   "last_seen": "2026-10-17T14:39:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +213,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-17T11:50:39+00:00"
+   "last_seen": "2026-10-17T14:39:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-17T11:50:39+00:00"
+   "last_seen": "2026-10-17T14:39:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +279,7 @@
    "uid": "imovirtual:19295064",
    "first_seen": "2026-10-01T20:40:40+00:00",
    "notified": true,
-   "last_seen": "2026-10-17T11:50:39+00:00"
+   "last_seen": "2026-10-17T14:39:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -565,7 +565,7 @@
    "uid": "imovirtual:19255173",
    "first_seen": "2026-09-16T17:51:01+00:00",
    "notified": true,
-   "last_seen": "2026-10-17T11:50:39+00:00"
+   "last_seen": "2026-10-17T14:39:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -609,7 +609,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-17T11:50:39+00:00"
+   "last_seen": "2026-10-17T14:39:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -635,28 +635,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19273537",
-   "titulo": "T2 Mobilado junto ao Hospital de São João | Asprela | Cozinha Equipada",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iRWw",
-   "rua": "Rua Henrique de Sousa Reis",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 47,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im82bDhhd2szcWFscTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.SjhB-qk7-zKLjVsdjVt8IjPpjIKqievWbSw2RMXO5BI/image;s=655x491;q=80",
-   "lat": 41.1768208,
-   "lon": -8.5923849,
-   "dist_km": 0.49205894823652446,
-   "tempo_min": 5.904707378838293,
-   "geo_preciso": true,
-   "uid": "imovirtual:19273537",
-   "first_seen": "2026-09-11T14:42:15+00:00",
-   "notified": true,
-   "last_seen": "2026-09-17T13:56:21+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19271203",
    "titulo": "Apartamento T2 para arrendamento",
    "tipologia": "T2",
@@ -675,7 +653,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-17T11:50:39+00:00"
+   "last_seen": "2026-10-17T14:39:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -829,7 +807,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-17T11:50:39+00:00"
+   "last_seen": "2026-10-17T14:39:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -939,7 +917,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-17T11:50:39+00:00"
+   "last_seen": "2026-10-17T14:39:02+00:00"
   }
  ]
 }
