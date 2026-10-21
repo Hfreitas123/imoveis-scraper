@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-21T06:47:12+00:00",
-  "total": 38
+  "generated_at": "2026-10-21T12:34:24+00:00",
+  "total": 36
  },
  "listings": [
   {
@@ -125,7 +125,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-10-21T06:47:07+00:00"
+   "last_seen": "2026-10-21T12:34:16+00:00"
   },
   {
    "site": "imovirtual",
@@ -160,7 +160,7 @@
    "freguesia": "Paranhos",
    "concelho": "Porto",
    "area_m2": 76,
-   "imagem": "https://media.casasapo.pt/Z360x270/OAYES/S5/C11567/P31198791/Tphoto/ID470edc01-0000-0500-0000-00001a965656.jpg.webp",
+   "imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
    "lat": 41.1739458,
    "lon": -8.6058236,
    "dist_km": 1.9298523736718693,
@@ -169,7 +169,7 @@
    "uid": "casasapo:22238706-c3cd-11f1-9aaf-060000000054",
    "first_seen": "2026-10-09T23:42:03+00:00",
    "notified": true,
-   "last_seen": "2026-10-21T01:07:46+00:00"
+   "last_seen": "2026-10-21T12:34:24+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +213,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-21T06:47:07+00:00"
+   "last_seen": "2026-10-21T12:34:16+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-21T06:47:07+00:00"
+   "last_seen": "2026-10-21T12:34:16+00:00"
   },
   {
    "site": "imovirtual",
@@ -525,28 +525,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "91927948400067",
-   "titulo": "T2 Mobilado junto ao Hospital de São João | Asprela | Cozinha Equipada",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iTtq",
-   "rua": "Rua Henrique de Sousa Reis",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 47,
-   "imagem": null,
-   "lat": 41.1768208,
-   "lon": -8.5923849,
-   "dist_km": 0.49205894823652446,
-   "tempo_min": 5.904707378838293,
-   "geo_preciso": true,
-   "uid": "imovirtual:91927948400067",
-   "first_seen": "2026-09-17T17:52:41+00:00",
-   "notified": true,
-   "last_seen": "2026-09-21T11:26:02+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19255173",
    "titulo": "Apartamento T2 para 2 estudantes",
    "tipologia": "T2",
@@ -609,7 +587,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-21T06:47:07+00:00"
+   "last_seen": "2026-10-21T12:34:16+00:00"
   },
   {
    "site": "imovirtual",
@@ -653,7 +631,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-21T06:47:07+00:00"
+   "last_seen": "2026-10-21T12:34:16+00:00"
   },
   {
    "site": "imovirtual",
@@ -741,7 +719,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-21T06:47:07+00:00"
+   "last_seen": "2026-10-21T12:34:16+00:00"
   },
   {
    "site": "imovirtual",
@@ -764,28 +742,6 @@
    "first_seen": "2026-07-15T11:27:55+00:00",
    "notified": true,
    "last_seen": "2026-09-22T00:23:29+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19072190",
-   "titulo": "T2 Renovado – Marquês | Porto",
-   "tipologia": "T2",
-   "preco": 1150,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-renovado-marques-porto-ID1i1xY",
-   "rua": "Rua Álvaro de Castelões",
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 65,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InF4dThscHF1NXQ1YjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.028lDZ3GVk_dDrp8FSoGcyAtvqwBQwfwhkiz05FNDAk/image;s=655x491;q=80",
-   "lat": 41.1705751,
-   "lon": -8.6036599,
-   "dist_km": 1.8263831871962144,
-   "tempo_min": 21.916598246354575,
-   "geo_preciso": true,
-   "uid": "imovirtual:19072190",
-   "first_seen": "2026-07-15T11:27:50+00:00",
-   "notified": true,
-   "last_seen": "2026-09-21T11:26:02+00:00"
   },
   {
    "site": "imovirtual",
@@ -851,7 +807,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-21T06:47:07+00:00"
+   "last_seen": "2026-10-21T12:34:16+00:00"
   }
  ]
 }
