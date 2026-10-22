@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-22T00:19:00+00:00",
-  "total": 36
+  "generated_at": "2026-10-22T05:36:04+00:00",
+  "total": 34
  },
  "listings": [
   {
@@ -125,7 +125,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T00:18:55+00:00"
+   "last_seen": "2026-10-22T05:36:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +213,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T00:18:55+00:00"
+   "last_seen": "2026-10-22T05:36:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T00:18:55+00:00"
+   "last_seen": "2026-10-22T05:36:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +587,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T00:18:55+00:00"
+   "last_seen": "2026-10-22T05:36:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -631,7 +631,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T00:18:55+00:00"
+   "last_seen": "2026-10-22T05:36:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -719,51 +719,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T00:18:55+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19011391",
-   "titulo": "Arrendamento de apartamento T2 - Amial/Circunvalação",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/arrendamento-de-apartamento-t2-amial-circunvalacao-ID1hLJl",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 70,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inc5cXhpZDB0NjZlbzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.rGeS212PnoPWDzPagDmfzQgRvN1vEZq2SAr9MpRYZEk/image;s=655x491;q=80",
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:19011391",
-   "first_seen": "2026-07-15T11:27:55+00:00",
-   "notified": true,
-   "last_seen": "2026-09-22T00:23:29+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19132848",
-   "titulo": "T2 Porto, Paranhos - Ao Polo Universitário",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-porto-paranhos-ao-polo-universitario-ID1ihkk",
-   "rua": null,
-   "freguesia": "Paranhos",
-   "concelho": "Porto",
-   "area_m2": 80,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im81anR1eHVxY2NqZDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.5dKbA3C3H7jvdHmn9dNwhfQHG9fznO07qeK9Y8BHdSk/image;s=655x491;q=80",
-   "lat": 41.1739458,
-   "lon": -8.6058236,
-   "dist_km": 1.9298523736718693,
-   "tempo_min": 23.15822848406243,
-   "geo_preciso": false,
-   "uid": "imovirtual:19132848",
-   "first_seen": "2026-07-15T11:27:49+00:00",
-   "notified": true,
-   "last_seen": "2026-09-22T00:23:29+00:00"
+   "last_seen": "2026-10-22T05:36:01+00:00"
   },
   {
    "site": "imovirtual",
@@ -807,7 +763,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T00:18:55+00:00"
+   "last_seen": "2026-10-22T05:36:01+00:00"
   }
  ]
 }
