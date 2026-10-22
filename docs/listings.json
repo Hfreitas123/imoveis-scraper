@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-22T05:36:04+00:00",
-  "total": 34
+  "generated_at": "2026-10-22T10:50:57+00:00",
+  "total": 30
  },
  "listings": [
   {
@@ -125,7 +125,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T05:36:01+00:00"
+   "last_seen": "2026-10-22T10:50:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +213,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T05:36:01+00:00"
+   "last_seen": "2026-10-22T10:50:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19299200",
    "first_seen": "2026-10-06T21:23:21+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T05:36:01+00:00"
+   "last_seen": "2026-10-22T10:50:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -415,94 +415,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19283728",
-   "titulo": "Apartamento T2 com garagem e ar condicionado Paranhos, Porto",
-   "tipologia": "T2",
-   "preco": 720,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-garagem-e-ar-condicionado-paranhos-porto-ID1iUzS",
-   "rua": "Rua Horácio Marçal",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 58,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjN1aWpibHYzc2h4ZDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.I2S4LmH5n6oVKprVeek6YMLnKYnM38grg2W00-qlPVA/image;s=655x491;q=80",
-   "lat": 41.1761933,
-   "lon": -8.5893639,
-   "dist_km": 0.15952139496750456,
-   "tempo_min": 1.914256739610055,
-   "geo_preciso": true,
-   "uid": "imovirtual:19283728",
-   "first_seen": "2026-09-22T10:34:23+00:00",
-   "notified": true,
-   "last_seen": "2026-09-22T10:34:23+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "91928372800067",
-   "titulo": "Apartamento T2 com garagem e ar condicionado Paranhos, Porto",
-   "tipologia": "T2",
-   "preco": 720,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-garagem-e-ar-condicionado-paranhos-porto-ID1iUzS",
-   "rua": "Rua Horácio Marçal",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 58,
-   "imagem": null,
-   "lat": 41.1761933,
-   "lon": -8.5893639,
-   "dist_km": 0.15952139496750456,
-   "tempo_min": 1.914256739610055,
-   "geo_preciso": true,
-   "uid": "imovirtual:91928372800067",
-   "first_seen": "2026-09-22T10:34:23+00:00",
-   "notified": true,
-   "last_seen": "2026-09-22T10:34:23+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19282568",
-   "titulo": "T2 para Arrendamento em Paranhos – Porto",
-   "tipologia": "T2",
-   "preco": null,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-para-arrendamento-em-paranhos-porto-ID1iUha",
-   "rua": "Rua Doutor Manuel Pereira da Silva",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 102,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRsNW4xaW5nd2Y0NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.IA2H50ffPC9sdGl_mdPtGh0YLHA_dVwhwtpaWRYqZ8k/image;s=655x491;q=80",
-   "lat": 41.1737823,
-   "lon": -8.6014366,
-   "dist_km": 1.4607608341872447,
-   "tempo_min": 17.529130010246938,
-   "geo_preciso": true,
-   "uid": "imovirtual:19282568",
-   "first_seen": "2026-09-21T17:25:15+00:00",
-   "notified": true,
-   "last_seen": "2026-09-22T05:36:44+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "91928256800067",
-   "titulo": "T2 para Arrendamento em Paranhos – Porto",
-   "tipologia": "T2",
-   "preco": null,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-para-arrendamento-em-paranhos-porto-ID1iUha",
-   "rua": "Rua Doutor Manuel Pereira da Silva",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 102,
-   "imagem": null,
-   "lat": 41.1737823,
-   "lon": -8.6014366,
-   "dist_km": 1.4607608341872447,
-   "tempo_min": 17.529130010246938,
-   "geo_preciso": true,
-   "uid": "imovirtual:91928256800067",
-   "first_seen": "2026-09-21T17:25:15+00:00",
-   "notified": true,
-   "last_seen": "2026-09-22T05:36:44+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19279484",
    "titulo": "T2 HOSPITAL DE S. JOÃO - Mobilado para estudantes",
    "tipologia": "T2",
@@ -587,7 +499,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T05:36:01+00:00"
+   "last_seen": "2026-10-22T10:50:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -631,7 +543,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T05:36:01+00:00"
+   "last_seen": "2026-10-22T10:50:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -719,7 +631,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T05:36:01+00:00"
+   "last_seen": "2026-10-22T10:50:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -763,7 +675,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-22T05:36:01+00:00"
+   "last_seen": "2026-10-22T10:50:54+00:00"
   }
  ]
 }
