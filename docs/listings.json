@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-25T14:40:51+00:00",
-  "total": 30
+  "generated_at": "2026-10-25T17:58:26+00:00",
+  "total": 29
  },
  "listings": [
   {
@@ -147,7 +147,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-10-25T14:40:43+00:00"
+   "last_seen": "2026-10-25T17:58:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-25T14:40:43+00:00"
+   "last_seen": "2026-10-25T17:58:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,29 +411,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-25T14:40:43+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19279484",
-   "titulo": "T2 HOSPITAL DE S. JOÃO - Mobilado para estudantes",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-hospital-de-s-joao-mobilado-para-estudantes-ID1iTtq",
-   "rua": "Rua Henrique de Sousa Reis",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 47,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNrdzBvNTNodnB6NC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.JDtTRDm3IeCVAPgGhvnG2yVf68c_uWF7Ah9Ga0nqSkU/image;s=655x491;q=80",
-   "lat": 41.1768208,
-   "lon": -8.5923849,
-   "dist_km": 0.49205894823652446,
-   "tempo_min": 5.904707378838293,
-   "geo_preciso": true,
-   "uid": "imovirtual:19279484",
-   "first_seen": "2026-09-17T17:52:41+00:00",
-   "notified": true,
-   "last_seen": "2026-09-25T15:39:59+00:00"
+   "last_seen": "2026-10-25T17:58:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +477,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-25T14:40:43+00:00"
+   "last_seen": "2026-10-25T17:58:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +521,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-25T14:40:43+00:00"
+   "last_seen": "2026-10-25T17:58:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -631,7 +609,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-25T14:40:43+00:00"
+   "last_seen": "2026-10-25T17:58:21+00:00"
   },
   {
    "site": "imovirtual",
@@ -675,7 +653,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-25T14:40:43+00:00"
+   "last_seen": "2026-10-25T17:58:21+00:00"
   }
  ]
 }
