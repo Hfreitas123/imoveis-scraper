@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-26T05:35:31+00:00",
-  "total": 29
+  "generated_at": "2026-10-26T11:51:58+00:00",
+  "total": 28
  },
  "listings": [
   {
@@ -147,7 +147,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-10-26T05:35:26+00:00"
+   "last_seen": "2026-10-26T11:51:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-26T05:35:26+00:00"
+   "last_seen": "2026-10-26T11:51:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-26T05:35:26+00:00"
+   "last_seen": "2026-10-26T11:51:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -477,7 +477,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-26T05:35:26+00:00"
+   "last_seen": "2026-10-26T11:51:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +521,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-26T05:35:26+00:00"
+   "last_seen": "2026-10-26T11:51:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -569,28 +569,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19236075",
-   "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
-   "tipologia": "T2",
-   "preco": 900,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-ID1iIbh",
-   "rua": "Rua de São Tomé",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 88,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRuMmE1bHRhaG8xMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NmhHp_VEHizxQ5KdncOglQeaYuEbI78gs7zbNud3VIU/image;s=655x491;q=80",
-   "lat": 41.1805052,
-   "lon": -8.6093633,
-   "dist_km": 2.412023242816088,
-   "tempo_min": 28.944278913793056,
-   "geo_preciso": true,
-   "uid": "imovirtual:19236075",
-   "first_seen": "2026-08-06T12:50:30+00:00",
-   "notified": true,
-   "last_seen": "2026-09-26T06:51:03+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "18945246",
    "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
    "tipologia": "T2",
@@ -609,7 +587,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-26T05:35:26+00:00"
+   "last_seen": "2026-10-26T11:51:53+00:00"
   },
   {
    "site": "imovirtual",
@@ -653,7 +631,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-26T05:35:26+00:00"
+   "last_seen": "2026-10-26T11:51:53+00:00"
   }
  ]
 }
