@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-10-28T03:02:45+00:00",
-  "total": 28
+  "generated_at": "2026-10-28T10:08:54+00:00",
+  "total": 26
  },
  "listings": [
   {
@@ -147,7 +147,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-10-28T03:02:40+00:00"
+   "last_seen": "2026-10-28T10:08:45+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +191,7 @@
    "uid": "casasapo:22238706-c3cd-11f1-9aaf-060000000054",
    "first_seen": "2026-10-09T23:42:03+00:00",
    "notified": true,
-   "last_seen": "2026-10-26T17:54:17+00:00"
+   "last_seen": "2026-10-28T10:08:54+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19303966",
    "first_seen": "2026-10-09T19:54:08+00:00",
    "notified": true,
-   "last_seen": "2026-10-28T03:02:40+00:00"
+   "last_seen": "2026-10-28T10:08:45+00:00"
   },
   {
    "site": "imovirtual",
@@ -349,50 +349,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "19288575",
-   "titulo": "T2 HOSPITAL DE S. JOÃO - Mobilado para estudantes",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-hospital-de-s-joao-mobilado-para-estudantes-ID1iWQ3",
-   "rua": "Rua Henrique de Sousa Reis",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 47,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFkNTI2Ynp0ZnFodDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ncWdaa8EJjpWPMf4XsNDv36DJ_nmXqF-CjxDvbaD0Xg/image;s=655x491;q=80",
-   "lat": 41.1768208,
-   "lon": -8.5923849,
-   "dist_km": 0.49205894823652446,
-   "tempo_min": 5.904707378838293,
-   "geo_preciso": true,
-   "uid": "imovirtual:19288575",
-   "first_seen": "2026-09-25T19:42:20+00:00",
-   "notified": true,
-   "last_seen": "2026-09-28T07:57:15+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "91928857500067",
-   "titulo": "T2 HOSPITAL DE S. JOÃO - Mobilado para estudantes",
-   "tipologia": "T2",
-   "preco": 1000,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-hospital-de-s-joao-mobilado-para-estudantes-ID1iWQ3",
-   "rua": "Rua Henrique de Sousa Reis",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 47,
-   "imagem": null,
-   "lat": 41.1768208,
-   "lon": -8.5923849,
-   "dist_km": 0.49205894823652446,
-   "tempo_min": 5.904707378838293,
-   "geo_preciso": true,
-   "uid": "imovirtual:91928857500067",
-   "first_seen": "2026-09-25T19:42:20+00:00",
-   "notified": true,
-   "last_seen": "2026-09-28T07:57:15+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19285859",
    "titulo": "T2-T3 ao Metro Combatentes/ Mobilado e Equipado",
    "tipologia": "T2",
@@ -411,7 +367,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-10-28T03:02:40+00:00"
+   "last_seen": "2026-10-28T10:08:45+00:00"
   },
   {
    "site": "imovirtual",
@@ -477,7 +433,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-10-28T03:02:40+00:00"
+   "last_seen": "2026-10-28T10:08:45+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +477,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-10-28T03:02:40+00:00"
+   "last_seen": "2026-10-28T10:08:45+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +543,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-28T03:02:40+00:00"
+   "last_seen": "2026-10-28T10:08:45+00:00"
   },
   {
    "site": "imovirtual",
@@ -631,7 +587,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-10-28T03:02:40+00:00"
+   "last_seen": "2026-10-28T10:08:45+00:00"
   }
  ]
 }
