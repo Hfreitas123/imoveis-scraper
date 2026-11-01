@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-01T01:39:27+00:00",
-  "total": 25
+  "generated_at": "2026-11-01T08:24:09+00:00",
+  "total": 24
  },
  "listings": [
   {
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-11-01T01:39:21+00:00"
+   "last_seen": "2026-11-01T08:24:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -327,28 +327,6 @@
   },
   {
    "site": "imovirtual",
-   "site_id": "16206804",
-   "titulo": "REF2504 T2 Kit Hospital de São João, Rua António Borges, Paranhos",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/ref2504-t2-kit-hospital-de-sao-joao-rua-antonio-borges-paranhos-ID16084",
-   "rua": "Rua António Borges",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 80,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxjOXFvMTc2aW1vczItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.JNUkPoADo1iPLnKzfbPy5612YZA2kvSo9V74JbmBdqQ/image;s=655x491;q=80",
-   "lat": 41.1740105,
-   "lon": -8.5889175,
-   "dist_km": 0.23043118873730595,
-   "tempo_min": 2.7651742648476714,
-   "geo_preciso": true,
-   "uid": "imovirtual:16206804",
-   "first_seen": "2026-09-28T16:23:48+00:00",
-   "notified": true,
-   "last_seen": "2026-10-02T06:26:51+00:00"
-  },
-  {
-   "site": "imovirtual",
    "site_id": "19285859",
    "titulo": "T2-T3 ao Metro Combatentes/ Mobilado e Equipado",
    "tipologia": "T2",
@@ -367,7 +345,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-01T01:39:21+00:00"
+   "last_seen": "2026-11-01T08:24:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -433,7 +411,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-01T01:39:21+00:00"
+   "last_seen": "2026-11-01T08:24:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -477,7 +455,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-11-01T01:39:21+00:00"
+   "last_seen": "2026-11-01T08:24:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +499,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-01T01:39:21+00:00"
+   "last_seen": "2026-11-01T08:24:05+00:00"
   },
   {
    "site": "imovirtual",
@@ -565,7 +543,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-01T01:39:21+00:00"
+   "last_seen": "2026-11-01T08:24:05+00:00"
   }
  ]
 }
