@@ -13,10 +13,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-02T11:49:54+00:00",
-  "total": 24
+  "generated_at": "2026-11-02T21:03:56+00:00",
+  "total": 25
  },
  "listings": [
+  {
+   "site": "imovirtual",
+   "site_id": "19333354",
+   "titulo": "T2+1 Renovado em Paranhos  Porto",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.imovirtual.com/pt/anuncio/t2-1-renovado-em-paranhos-porto-ID1j7ui",
+   "rua": "Rua Engenheiro Machado Vaz",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 80,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjE0bXd5Y3djeW0zei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.rM-yK5gBANzc5Ks3ZCyupAKTHQyAKV4ekvLWwtNwGOA/image;s=655x491;q=80",
+   "lat": 41.1648173,
+   "lon": -8.5798838,
+   "dist_km": 1.791966963539309,
+   "tempo_min": 21.503603562471707,
+   "geo_preciso": true,
+   "uid": "imovirtual:19333354",
+   "first_seen": "2026-11-02T21:03:51+00:00",
+   "notified": true,
+   "last_seen": "2026-11-02T21:03:51+00:00"
+  },
   {
    "site": "casasapo",
    "site_id": "388cfa8e-d51c-11f1-9aaf-060000000054",
@@ -169,7 +191,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-11-02T11:49:48+00:00"
+   "last_seen": "2026-11-02T21:03:51+00:00"
   },
   {
    "site": "imovirtual",
@@ -345,7 +367,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-02T11:49:48+00:00"
+   "last_seen": "2026-11-02T21:03:51+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +433,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-02T11:49:48+00:00"
+   "last_seen": "2026-11-02T21:03:51+00:00"
   },
   {
    "site": "imovirtual",
@@ -455,7 +477,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-11-02T11:49:48+00:00"
+   "last_seen": "2026-11-02T21:03:51+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +521,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-02T11:49:48+00:00"
+   "last_seen": "2026-11-02T21:03:51+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +565,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-02T11:49:48+00:00"
+   "last_seen": "2026-11-02T21:03:51+00:00"
   }
  ]
 }
