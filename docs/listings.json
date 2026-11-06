@@ -13,7 +13,7 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-05T21:42:06+00:00",
+  "generated_at": "2026-11-06T01:55:07+00:00",
   "total": 26
  },
  "listings": [
@@ -81,7 +81,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-05T21:42:01+00:00"
+   "last_seen": "2026-11-06T01:55:03+00:00"
   },
   {
    "site": "casasapo",
@@ -235,7 +235,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-11-05T21:42:01+00:00"
+   "last_seen": "2026-11-06T01:55:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-05T21:42:01+00:00"
+   "last_seen": "2026-11-06T01:55:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -477,7 +477,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-05T21:42:01+00:00"
+   "last_seen": "2026-11-06T01:55:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +521,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-11-05T21:42:01+00:00"
+   "last_seen": "2026-11-06T01:55:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +587,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-05T21:42:01+00:00"
+   "last_seen": "2026-11-06T01:55:03+00:00"
   }
  ]
 }
