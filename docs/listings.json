@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-10T16:44:47+00:00",
-  "total": 26
+  "generated_at": "2026-11-10T22:02:16+00:00",
+  "total": 25
  },
  "listings": [
   {
@@ -59,7 +59,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T16:44:42+00:00"
+   "last_seen": "2026-11-10T22:02:10+00:00"
   },
   {
    "site": "casasapo",
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T16:44:42+00:00"
+   "last_seen": "2026-11-10T22:02:10+00:00"
   },
   {
    "site": "casasapo",
@@ -257,7 +257,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T16:44:42+00:00"
+   "last_seen": "2026-11-10T22:02:10+00:00"
   },
   {
    "site": "imovirtual",
@@ -302,28 +302,6 @@
    "first_seen": "2026-10-09T23:42:03+00:00",
    "notified": true,
    "last_seen": "2026-10-31T01:14:14+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "91930396600067",
-   "titulo": "Apartamento T2 para arrendamento",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iZQi",
-   "rua": "Rua Doutor Júlio de Matos",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 76,
-   "imagem": null,
-   "lat": 41.172367,
-   "lon": -8.5883351,
-   "dist_km": 0.4549555318696847,
-   "tempo_min": 5.459466382436216,
-   "geo_preciso": true,
-   "uid": "imovirtual:91930396600067",
-   "first_seen": "2026-10-09T19:54:09+00:00",
-   "notified": true,
-   "last_seen": "2026-10-11T17:00:36+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +389,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T16:44:42+00:00"
+   "last_seen": "2026-11-10T22:02:10+00:00"
   },
   {
    "site": "imovirtual",
@@ -477,7 +455,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T16:44:42+00:00"
+   "last_seen": "2026-11-10T22:02:10+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +565,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T16:44:42+00:00"
+   "last_seen": "2026-11-10T22:02:10+00:00"
   }
  ]
 }
