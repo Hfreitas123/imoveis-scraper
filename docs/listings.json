@@ -13,7 +13,7 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-10T01:12:14+00:00",
+  "generated_at": "2026-11-10T08:57:25+00:00",
   "total": 26
  },
  "listings": [
@@ -37,7 +37,7 @@
    "uid": "casasapo:86400a45-dcaf-4787-942c-8702c1c188ad",
    "first_seen": "2026-11-09T17:58:34+00:00",
    "notified": true,
-   "last_seen": "2026-11-09T17:58:34+00:00"
+   "last_seen": "2026-11-10T08:57:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -81,7 +81,7 @@
    "uid": "casasapo:1189a9c9-d758-11f1-9aaf-060000000054",
    "first_seen": "2026-11-04T03:54:37+00:00",
    "notified": true,
-   "last_seen": "2026-11-09T17:58:34+00:00"
+   "last_seen": "2026-11-10T08:57:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T01:12:08+00:00"
+   "last_seen": "2026-11-10T08:57:17+00:00"
   },
   {
    "site": "casasapo",
@@ -125,7 +125,7 @@
    "uid": "casasapo:388cfa8e-d51c-11f1-9aaf-060000000054",
    "first_seen": "2026-10-31T14:01:39+00:00",
    "notified": true,
-   "last_seen": "2026-11-09T17:58:35+00:00"
+   "last_seen": "2026-11-10T08:57:25+00:00"
   },
   {
    "site": "imovirtual",
@@ -257,7 +257,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T01:12:08+00:00"
+   "last_seen": "2026-11-10T08:57:17+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T01:12:08+00:00"
+   "last_seen": "2026-11-10T08:57:17+00:00"
   },
   {
    "site": "imovirtual",
@@ -477,7 +477,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T01:12:08+00:00"
+   "last_seen": "2026-11-10T08:57:17+00:00"
   },
   {
    "site": "imovirtual",
@@ -521,7 +521,7 @@
    "uid": "imovirtual:19271203",
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T01:12:08+00:00"
+   "last_seen": "2026-11-10T08:57:17+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +587,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T01:12:08+00:00"
+   "last_seen": "2026-11-10T08:57:17+00:00"
   }
  ]
 }
