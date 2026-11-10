@@ -13,7 +13,7 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-10T08:57:25+00:00",
+  "generated_at": "2026-11-10T16:44:47+00:00",
   "total": 26
  },
  "listings": [
@@ -50,7 +50,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 14,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImV0bzB6c2dyNzF3dTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7jHKe1i_hAIlCDqXUuVSJ4We6jgI3D-DrB2ByFgkYWs/image;s=655x491;q=80",
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJrMnpsMmJuaTczejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3K3PeLtM7xrBaBILYdDWcUU-Q_NSm3Pg9D1Y_b9GvwI/image;s=655x491;q=80",
    "lat": 41.167972,
    "lon": -8.5815659,
    "dist_km": 1.3079881841158225,
@@ -59,7 +59,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-05T07:32:52+00:00"
+   "last_seen": "2026-11-10T16:44:42+00:00"
   },
   {
    "site": "casasapo",
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T08:57:17+00:00"
+   "last_seen": "2026-11-10T16:44:42+00:00"
   },
   {
    "site": "casasapo",
@@ -257,7 +257,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T08:57:17+00:00"
+   "last_seen": "2026-11-10T16:44:42+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T08:57:17+00:00"
+   "last_seen": "2026-11-10T16:44:42+00:00"
   },
   {
    "site": "imovirtual",
@@ -477,7 +477,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T08:57:17+00:00"
+   "last_seen": "2026-11-10T16:44:42+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +587,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-10T08:57:17+00:00"
+   "last_seen": "2026-11-10T16:44:42+00:00"
   }
  ]
 }
