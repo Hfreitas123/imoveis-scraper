@@ -13,10 +13,54 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-11T10:00:31+00:00",
-  "total": 25
+  "generated_at": "2026-11-11T18:12:01+00:00",
+  "total": 27
  },
  "listings": [
+  {
+   "site": "imovirtual",
+   "site_id": "9000062306",
+   "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
+   "tipologia": "T2",
+   "preco": 850,
+   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-ID1jcAs",
+   "rua": "Largo Igreja de Paranhos",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 10,
+   "imagem": null,
+   "lat": 41.1736667,
+   "lon": -8.6055733,
+   "dist_km": 1.9080367470221113,
+   "tempo_min": 22.896440964265334,
+   "geo_preciso": true,
+   "uid": "imovirtual:9000062306",
+   "first_seen": "2026-11-11T18:11:56+00:00",
+   "notified": true,
+   "last_seen": "2026-11-11T18:11:56+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "19352956",
+   "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
+   "tipologia": "T2",
+   "preco": 850,
+   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-ID1jcAs",
+   "rua": "Largo Igreja de Paranhos",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 10,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNrYnNoejF0Z3hzdDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.xCtlR4a4FYeppqT_TVFeQw0xfBqRceME9G8aPXiPdeU/image;s=655x491;q=80",
+   "lat": 41.1736667,
+   "lon": -8.6055733,
+   "dist_km": 1.9080367470221113,
+   "tempo_min": 22.896440964265334,
+   "geo_preciso": true,
+   "uid": "imovirtual:19352956",
+   "first_seen": "2026-11-11T18:11:55+00:00",
+   "notified": true,
+   "last_seen": "2026-11-11T18:11:55+00:00"
+  },
   {
    "site": "casasapo",
    "site_id": "86400a45-dcaf-4787-942c-8702c1c188ad",
@@ -59,7 +103,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T10:00:26+00:00"
+   "last_seen": "2026-11-11T18:11:56+00:00"
   },
   {
    "site": "casasapo",
@@ -103,7 +147,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T10:00:26+00:00"
+   "last_seen": "2026-11-11T18:11:55+00:00"
   },
   {
    "site": "casasapo",
@@ -257,7 +301,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T10:00:26+00:00"
+   "last_seen": "2026-11-11T18:11:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -372,15 +416,15 @@
   {
    "site": "imovirtual",
    "site_id": "19285859",
-   "titulo": "T2-T3 ao Metro Combatentes/ Mobilado e Equipado",
+   "titulo": "T2- Antas / ao Metro/ Mobilado e Equipado",
    "tipologia": "T2",
    "preco": 898,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-t3-ao-metro-combatentes-mobilado-e-equipado-ID1iW8f",
+   "url": "https://www.imovirtual.com/pt/anuncio/t2-antas-ao-metro-mobilado-e-equipado-ID1iW8f",
    "rua": "Rua de Costa Cabral",
    "freguesia": null,
    "concelho": null,
    "area_m2": 90,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJxamVyaTU2eDEzdjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rQFCGLyoX-4OQut4ByVp9dyG8ABuYDSgx1vPxGpTDJA/image;s=655x491;q=80",
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjR5cHo3a2IwOTFiNC1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.pcHU8uslnFflxkAUCrU7j59aXqeOwZa8YZ3Erc6bquA/image;s=655x491;q=80",
    "lat": 41.1767527,
    "lon": -8.5854101,
    "dist_km": 0.35340868229952876,
@@ -389,7 +433,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T10:00:26+00:00"
+   "last_seen": "2026-11-11T18:11:55+00:00"
   },
   {
    "site": "imovirtual",
@@ -455,7 +499,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T10:00:26+00:00"
+   "last_seen": "2026-11-11T18:11:56+00:00"
   },
   {
    "site": "imovirtual",
@@ -565,7 +609,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T10:00:26+00:00"
+   "last_seen": "2026-11-11T18:11:56+00:00"
   }
  ]
 }
