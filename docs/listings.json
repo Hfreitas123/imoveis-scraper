@@ -13,10 +13,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-11T18:12:01+00:00",
-  "total": 27
+  "generated_at": "2026-11-12T01:09:19+00:00",
+  "total": 28
  },
  "listings": [
+  {
+   "site": "imovirtual",
+   "site_id": "9000062307",
+   "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
+   "tipologia": "T2",
+   "preco": 850,
+   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-ID1jcAs",
+   "rua": "Largo Igreja de Paranhos",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 10,
+   "imagem": null,
+   "lat": 41.1736667,
+   "lon": -8.6055733,
+   "dist_km": 1.9080367470221113,
+   "tempo_min": 22.896440964265334,
+   "geo_preciso": true,
+   "uid": "imovirtual:9000062307",
+   "first_seen": "2026-11-12T01:09:13+00:00",
+   "notified": true,
+   "last_seen": "2026-11-12T01:09:13+00:00"
+  },
   {
    "site": "imovirtual",
    "site_id": "9000062306",
@@ -59,7 +81,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T18:11:55+00:00"
+   "last_seen": "2026-11-12T01:09:13+00:00"
   },
   {
    "site": "casasapo",
@@ -103,7 +125,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T18:11:56+00:00"
+   "last_seen": "2026-11-12T01:09:13+00:00"
   },
   {
    "site": "casasapo",
@@ -147,7 +169,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T18:11:55+00:00"
+   "last_seen": "2026-11-12T01:09:13+00:00"
   },
   {
    "site": "casasapo",
@@ -301,7 +323,7 @@
    "uid": "imovirtual:19309222",
    "first_seen": "2026-10-14T19:03:30+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T18:11:55+00:00"
+   "last_seen": "2026-11-12T01:09:13+00:00"
   },
   {
    "site": "imovirtual",
@@ -433,7 +455,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T18:11:55+00:00"
+   "last_seen": "2026-11-12T01:09:13+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +521,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T18:11:56+00:00"
+   "last_seen": "2026-11-12T01:09:13+00:00"
   },
   {
    "site": "imovirtual",
@@ -609,7 +631,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-11T18:11:56+00:00"
+   "last_seen": "2026-11-12T01:09:13+00:00"
   }
  ]
 }
