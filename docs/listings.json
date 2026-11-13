@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-13T03:07:57+00:00",
-  "total": 28
+  "generated_at": "2026-11-13T11:42:22+00:00",
+  "total": 27
  },
  "listings": [
   {
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T03:07:49+00:00"
+   "last_seen": "2026-11-13T11:42:17+00:00"
   },
   {
    "site": "casasapo",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T03:07:49+00:00"
+   "last_seen": "2026-11-13T11:42:17+00:00"
   },
   {
    "site": "casasapo",
@@ -191,7 +191,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T03:07:49+00:00"
+   "last_seen": "2026-11-13T11:42:17+00:00"
   },
   {
    "site": "casasapo",
@@ -477,7 +477,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T03:07:49+00:00"
+   "last_seen": "2026-11-13T11:42:17+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +543,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T03:07:49+00:00"
+   "last_seen": "2026-11-13T11:42:17+00:00"
   },
   {
    "site": "imovirtual",
@@ -566,28 +566,6 @@
    "first_seen": "2026-09-09T18:10:18+00:00",
    "notified": true,
    "last_seen": "2026-11-10T08:57:17+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19145803",
-   "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
-   "tipologia": "T2",
-   "preco": 990,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-ID1ikHh",
-   "rua": "Rua de Costa Cabral",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 82,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNwMmhtNXR5bGQ2bDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qN-IsE_i2Hj2kue7BtkMQdBzMu5OFyuwgqPJbSjABuM/image;s=655x491;q=80",
-   "lat": 41.1767527,
-   "lon": -8.5854101,
-   "dist_km": 0.35340868229952876,
-   "tempo_min": 4.240904187594345,
-   "geo_preciso": true,
-   "uid": "imovirtual:19145803",
-   "first_seen": "2026-09-06T14:37:12+00:00",
-   "notified": true,
-   "last_seen": "2026-10-14T08:11:00+00:00"
   },
   {
    "site": "imovirtual",
@@ -631,7 +609,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T03:07:49+00:00"
+   "last_seen": "2026-11-13T11:42:17+00:00"
   }
  ]
 }
