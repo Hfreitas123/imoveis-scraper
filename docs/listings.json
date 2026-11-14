@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-14T19:35:41+00:00",
-  "total": 25
+  "generated_at": "2026-11-14T23:30:12+00:00",
+  "total": 24
  },
  "listings": [
   {
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-14T19:35:36+00:00"
+   "last_seen": "2026-11-14T23:30:04+00:00"
   },
   {
    "site": "casasapo",
@@ -125,7 +125,7 @@
    "uid": "casasapo:86400a45-dcaf-4787-942c-8702c1c188ad",
    "first_seen": "2026-11-09T17:58:34+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T03:07:57+00:00"
+   "last_seen": "2026-11-14T23:30:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-14T19:35:36+00:00"
+   "last_seen": "2026-11-14T23:30:04+00:00"
   },
   {
    "site": "casasapo",
@@ -160,7 +160,7 @@
    "freguesia": "Paranhos",
    "concelho": "Porto",
    "area_m2": 80,
-   "imagem": "https://media.casasapo.pt/Z360x270/OAYES/S5/C11557/P31357795/Tphoto/ID637bde01-0000-0500-0000-00001ac90487.jpg.webp",
+   "imagem": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
    "lat": 41.1739458,
    "lon": -8.6058236,
    "dist_km": 1.9298523736718693,
@@ -169,7 +169,7 @@
    "uid": "casasapo:1189a9c9-d758-11f1-9aaf-060000000054",
    "first_seen": "2026-11-04T03:54:37+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T03:07:57+00:00"
+   "last_seen": "2026-11-14T23:30:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +191,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-14T19:35:36+00:00"
+   "last_seen": "2026-11-14T23:30:04+00:00"
   },
   {
    "site": "casasapo",
@@ -213,7 +213,7 @@
    "uid": "casasapo:388cfa8e-d51c-11f1-9aaf-060000000054",
    "first_seen": "2026-10-31T14:01:39+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T03:07:57+00:00"
+   "last_seen": "2026-11-14T23:30:12+00:00"
   },
   {
    "site": "imovirtual",
@@ -280,28 +280,6 @@
    "first_seen": "2026-10-16T02:14:36+00:00",
    "notified": true,
    "last_seen": "2026-10-16T07:40:14+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "9000062225",
-   "titulo": "T2 com varanda e elevador em Paranhos, junto à Costa Cabral",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-com-varanda-e-elevador-em-paranhos-junto-a-costa-cabral-ID1j1d4",
-   "rua": "4200-262 | Paranhos, Porto, Rua Diogo Cão",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 85,
-   "imagem": null,
-   "lat": 41.1846879,
-   "lon": -8.6058664,
-   "dist_km": 2.334372055419443,
-   "tempo_min": 28.012464665033317,
-   "geo_preciso": true,
-   "uid": "imovirtual:9000062225",
-   "first_seen": "2026-10-15T20:42:03+00:00",
-   "notified": true,
-   "last_seen": "2026-10-15T23:25:40+00:00"
   },
   {
    "site": "imovirtual",
@@ -433,7 +411,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-14T19:35:36+00:00"
+   "last_seen": "2026-11-14T23:30:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -499,7 +477,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-14T19:35:36+00:00"
+   "last_seen": "2026-11-14T23:30:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +521,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-14T19:35:36+00:00"
+   "last_seen": "2026-11-14T23:30:04+00:00"
   },
   {
    "site": "imovirtual",
@@ -565,7 +543,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-14T19:35:36+00:00"
+   "last_seen": "2026-11-14T23:30:04+00:00"
   }
  ]
 }
