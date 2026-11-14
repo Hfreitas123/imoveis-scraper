@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-13T18:56:03+00:00",
-  "total": 27
+  "generated_at": "2026-11-14T00:03:54+00:00",
+  "total": 26
  },
  "listings": [
   {
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T18:55:58+00:00"
+   "last_seen": "2026-11-14T00:03:49+00:00"
   },
   {
    "site": "casasapo",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T18:55:58+00:00"
+   "last_seen": "2026-11-14T00:03:49+00:00"
   },
   {
    "site": "casasapo",
@@ -191,7 +191,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T18:55:58+00:00"
+   "last_seen": "2026-11-14T00:03:49+00:00"
   },
   {
    "site": "casasapo",
@@ -348,28 +348,6 @@
    "last_seen": "2026-11-12T08:57:34+00:00"
   },
   {
-   "site": "imovirtual",
-   "site_id": "9000062222",
-   "titulo": "T2 com varanda e elevador em Paranhos, junto à Costa Cabral",
-   "tipologia": "T2",
-   "preco": 1100,
-   "url": "https://www.imovirtual.com/pt/anuncio/t2-com-varanda-e-elevador-em-paranhos-junto-a-costa-cabral-ID1j1d4",
-   "rua": "4200-262 | Paranhos, Porto, Rua Diogo Cão",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 85,
-   "imagem": null,
-   "lat": 41.1846879,
-   "lon": -8.6058664,
-   "dist_km": 2.334372055419443,
-   "tempo_min": 28.012464665033317,
-   "geo_preciso": true,
-   "uid": "imovirtual:9000062222",
-   "first_seen": "2026-10-14T19:03:30+00:00",
-   "notified": true,
-   "last_seen": "2026-10-14T22:50:31+00:00"
-  },
-  {
    "site": "casasapo",
    "site_id": "22238706-c3cd-11f1-9aaf-060000000054",
    "titulo": "Apartamento T2 · Paranhos, Porto, Distrito do Porto",
@@ -477,7 +455,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T18:55:58+00:00"
+   "last_seen": "2026-11-14T00:03:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +521,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T18:55:58+00:00"
+   "last_seen": "2026-11-14T00:03:49+00:00"
   },
   {
    "site": "imovirtual",
@@ -609,7 +587,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-13T18:55:58+00:00"
+   "last_seen": "2026-11-14T00:03:49+00:00"
   }
  ]
 }
