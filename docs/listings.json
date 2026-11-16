@@ -13,10 +13,186 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-16T12:15:18+00:00",
-  "total": 21
+  "generated_at": "2026-11-16T22:38:48+00:00",
+  "total": 29
  },
  "listings": [
+  {
+   "site": "olx",
+   "site_id": "675402245",
+   "titulo": "T2 com 95 m², varanda e vista desafogada | Paranhos, Porto",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.olx.pt/d/anuncio/t2-com-95-m-varanda-e-vista-desafogada-paranhos-porto-IDJHUYB.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 85,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/j9iapcksvwkj2-PT/image;s=1151x1024",
+   "lat": 41.167366,
+   "lon": -8.590582,
+   "dist_km": 1.2056229656528918,
+   "tempo_min": 14.467475587834702,
+   "geo_preciso": true,
+   "uid": "olx:675402245",
+   "first_seen": "2026-11-16T22:38:45+00:00",
+   "notified": true,
+   "last_seen": "2026-11-16T22:38:45+00:00"
+  },
+  {
+   "site": "olx",
+   "site_id": "675362039",
+   "titulo": "Apartamento com 2 quartos - localizado em Paranhos Porto",
+   "tipologia": "T2",
+   "preco": 850,
+   "url": "https://www.olx.pt/d/anuncio/apartamento-com-2-quartos-localizado-em-paranhos-porto-IDJHKv7.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 10,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/7y4lxherxccn2-PT/image;s=768x1024",
+   "lat": 41.173607,
+   "lon": -8.606201,
+   "dist_km": 1.9768713164160774,
+   "tempo_min": 23.72245579699293,
+   "geo_preciso": false,
+   "uid": "olx:675362039",
+   "first_seen": "2026-11-16T22:38:45+00:00",
+   "notified": true,
+   "last_seen": "2026-11-16T22:38:45+00:00"
+  },
+  {
+   "site": "olx",
+   "site_id": "673427961",
+   "titulo": "T2 com garagem e arrumos em Pedrouços, Maia",
+   "tipologia": "T2",
+   "preco": 1000,
+   "url": "https://www.olx.pt/d/anuncio/t2-com-garagem-e-arrumos-em-pedrouos-maia-IDJzDnj.html",
+   "rua": null,
+   "freguesia": "Pedrouços",
+   "concelho": "Porto",
+   "area_m2": 77,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/rb9yfh39zskg3-PT/image;s=1280x960",
+   "lat": 41.191494,
+   "lon": -8.59028,
+   "dist_km": 2.3210772364076497,
+   "tempo_min": 27.852926836891797,
+   "geo_preciso": true,
+   "uid": "olx:673427961",
+   "first_seen": "2026-11-16T22:38:45+00:00",
+   "notified": true,
+   "last_seen": "2026-11-16T22:38:45+00:00"
+  },
+  {
+   "site": "olx",
+   "site_id": "674760706",
+   "titulo": "Apartamento t2 arrendar",
+   "tipologia": "T2",
+   "preco": 990,
+   "url": "https://www.olx.pt/d/anuncio/apartamento-t2-arrendar-IDJFe5c.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 75,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/22cdot17etoi1-PT/image;s=1824x1368",
+   "lat": 41.17627,
+   "lon": -8.60747,
+   "dist_km": 2.098468035484104,
+   "tempo_min": 25.18161642580925,
+   "geo_preciso": false,
+   "uid": "olx:674760706",
+   "first_seen": "2026-11-16T22:38:44+00:00",
+   "notified": true,
+   "last_seen": "2026-11-16T22:38:44+00:00"
+  },
+  {
+   "site": "olx",
+   "site_id": "673655237",
+   "titulo": "T2 Arrendamento | Rio Tinto | Areosa | Suite | Varanda | Garagem Box",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.olx.pt/d/anuncio/t2-arrendamento-rio-tinto-areosa-suite-varanda-garagem-box-IDJAAw3.html",
+   "rua": null,
+   "freguesia": "Rio Tinto",
+   "concelho": "Porto",
+   "area_m2": 104,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/j7wc9kukir071-PT/image;s=1280x854",
+   "lat": 41.18863,
+   "lon": -8.58065,
+   "dist_km": 2.0668047274647776,
+   "tempo_min": 24.80165672957733,
+   "geo_preciso": false,
+   "uid": "olx:673655237",
+   "first_seen": "2026-11-16T22:38:44+00:00",
+   "notified": true,
+   "last_seen": "2026-11-16T22:38:44+00:00"
+  },
+  {
+   "site": "olx",
+   "site_id": "673602332",
+   "titulo": "T2 Mobilado para Arrendamento na Areosa – Porto",
+   "tipologia": "T2",
+   "preco": 1000,
+   "url": "https://www.olx.pt/d/anuncio/t2-mobilado-para-arrendamento-na-areosa-porto-IDJAmJK.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 80,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/u97qvsm0oiuw-PT/image;s=1280x800",
+   "lat": 41.16882,
+   "lon": -8.590799,
+   "dist_km": 1.0076733128252384,
+   "tempo_min": 12.09207975390286,
+   "geo_preciso": true,
+   "uid": "olx:673602332",
+   "first_seen": "2026-11-16T22:38:44+00:00",
+   "notified": true,
+   "last_seen": "2026-11-16T22:38:44+00:00"
+  },
+  {
+   "site": "olx",
+   "site_id": "673582740",
+   "titulo": "T2 à Antas- vistas desafogadas- roupeiros e cozinha equipada",
+   "tipologia": "T2",
+   "preco": 950,
+   "url": "https://www.olx.pt/d/anuncio/t2-antas-vistas-desafogadas-roupeiros-e-cozinha-equipada-IDJAhDK.html",
+   "rua": null,
+   "freguesia": "Campanhã",
+   "concelho": "Porto",
+   "area_m2": 77,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/djdnvp6ei7s12-PT/image;s=1024x767",
+   "lat": 41.16767,
+   "lon": -8.58555,
+   "dist_km": 1.1700707319463692,
+   "tempo_min": 14.04084878335643,
+   "geo_preciso": true,
+   "uid": "olx:673582740",
+   "first_seen": "2026-11-16T22:38:44+00:00",
+   "notified": true,
+   "last_seen": "2026-11-16T22:38:44+00:00"
+  },
+  {
+   "site": "olx",
+   "site_id": "675429131",
+   "titulo": "T2 Perto Hospital Sao Joao",
+   "tipologia": "T2",
+   "preco": 950,
+   "url": "https://www.olx.pt/d/anuncio/t2-perto-hospital-sao-joao-IDJI1Yf.html",
+   "rua": null,
+   "freguesia": "São Mamede De Infesta E Senhora Da Hora",
+   "concelho": "Porto",
+   "area_m2": 85,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/3tww8ppvg9pb1-PT/image;s=1000x750",
+   "lat": 41.18908,
+   "lon": -8.598213,
+   "dist_km": 2.2428995463884065,
+   "tempo_min": 26.91479455666088,
+   "geo_preciso": false,
+   "uid": "olx:675429131",
+   "first_seen": "2026-11-16T22:38:44+00:00",
+   "notified": true,
+   "last_seen": "2026-11-16T22:38:44+00:00"
+  },
   {
    "site": "imovirtual",
    "site_id": "9000062308",
@@ -103,7 +279,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-16T12:15:12+00:00"
+   "last_seen": "2026-11-16T22:38:35+00:00"
   },
   {
    "site": "casasapo",
@@ -147,7 +323,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-16T12:15:12+00:00"
+   "last_seen": "2026-11-16T22:38:35+00:00"
   },
   {
    "site": "casasapo",
@@ -191,7 +367,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-16T12:15:12+00:00"
+   "last_seen": "2026-11-16T22:38:35+00:00"
   },
   {
    "site": "casasapo",
@@ -367,7 +543,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-16T12:15:12+00:00"
+   "last_seen": "2026-11-16T22:38:35+00:00"
   },
   {
    "site": "imovirtual",
@@ -411,7 +587,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-16T12:15:12+00:00"
+   "last_seen": "2026-11-16T22:38:35+00:00"
   },
   {
    "site": "imovirtual",
@@ -477,7 +653,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-16T12:15:12+00:00"
+   "last_seen": "2026-11-16T22:38:35+00:00"
   }
  ]
 }
