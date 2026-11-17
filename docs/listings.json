@@ -13,10 +13,98 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-17T13:58:41+00:00",
-  "total": 29
+  "generated_at": "2026-11-17T22:02:07+00:00",
+  "total": 33
  },
  "listings": [
+  {
+   "site": "casasapo",
+   "site_id": "1e8692be-e2ad-11f1-9aaf-060000000054",
+   "titulo": "Apartamento T2 · Paranhos, Porto, Distrito do Porto",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://casa.sapo.pt/alugar-apartamento-t2-porto-paranhos-1e8692be-e2ad-11f1-9aaf-060000000054.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 87,
+   "imagem": "https://media.casasapo.pt/Z360x270/OAYES/S5/C3981/P31451448/Tphoto/ID38e9df01-0000-0500-0000-00001ae80db6.jpg.webp",
+   "lat": 41.1739458,
+   "lon": -8.6058236,
+   "dist_km": 1.9298523736718693,
+   "tempo_min": 23.15822848406243,
+   "geo_preciso": false,
+   "uid": "casasapo:1e8692be-e2ad-11f1-9aaf-060000000054",
+   "first_seen": "2026-11-17T22:02:07+00:00",
+   "notified": true,
+   "last_seen": "2026-11-17T22:02:07+00:00"
+  },
+  {
+   "site": "olx",
+   "site_id": "675507053",
+   "titulo": "Apartamento T2 com varanda, Renovado no Porto, junto a universidades",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.olx.pt/d/anuncio/apartamento-t2-com-varanda-renovado-no-porto-junto-a-universidades-IDJImf3.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 87,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/k0ezhv0xluv4-PT/image;s=1280x850",
+   "lat": 41.167423,
+   "lon": -8.596561,
+   "dist_km": 1.4809918994050728,
+   "tempo_min": 17.771902792860875,
+   "geo_preciso": true,
+   "uid": "olx:675507053",
+   "first_seen": "2026-11-17T22:02:00+00:00",
+   "notified": true,
+   "last_seen": "2026-11-17T22:02:00+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "19359664",
+   "titulo": "Apartamento T2 com varanda, Renovado no Porto, junto a universidades",
+   "tipologia": "T2",
+   "preco": 1100,
+   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-varanda-renovado-no-porto-junto-a-universidades-ID1jekE",
+   "rua": "Rua Doutor Joaquim Pires de Lima",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 87,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im55MWowbHNrOGZoMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.kyIq2iLoA_-MjHbRoSXK2AqhmE65AAP_N7q-yybfmFo/image;s=655x491;q=80",
+   "lat": 41.1669372,
+   "lon": -8.5972416,
+   "dist_km": 1.5819604580566482,
+   "tempo_min": 18.98352549667978,
+   "geo_preciso": true,
+   "uid": "imovirtual:19359664",
+   "first_seen": "2026-11-17T22:01:52+00:00",
+   "notified": true,
+   "last_seen": "2026-11-17T22:01:52+00:00"
+  },
+  {
+   "site": "imovirtual",
+   "site_id": "19329233",
+   "titulo": "Comfortable 2 bedroom apartment in Porto",
+   "tipologia": "T2",
+   "preco": 1080,
+   "url": "https://www.imovirtual.com/pt/anuncio/comfortable-2-bedroom-apartment-in-porto-ID1j6pP",
+   "rua": "Rua de Costa Cabral",
+   "freguesia": null,
+   "concelho": null,
+   "area_m2": 88,
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InA4a3B4MTVueDA5bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jT8cwsoAtU4MRdf7IQwOIAj9x8tueEo4G-IqezknFFY/image;s=655x491;q=80",
+   "lat": 41.1767527,
+   "lon": -8.5854101,
+   "dist_km": 0.35340868229952876,
+   "tempo_min": 4.240904187594345,
+   "geo_preciso": true,
+   "uid": "imovirtual:19329233",
+   "first_seen": "2026-11-17T22:01:52+00:00",
+   "notified": true,
+   "last_seen": "2026-11-17T22:01:52+00:00"
+  },
   {
    "site": "olx",
    "site_id": "675402245",
@@ -59,7 +147,7 @@
    "uid": "olx:675362039",
    "first_seen": "2026-11-16T22:38:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:38+00:00"
+   "last_seen": "2026-11-17T22:02:00+00:00"
   },
   {
    "site": "olx",
@@ -81,7 +169,7 @@
    "uid": "olx:673427961",
    "first_seen": "2026-11-16T22:38:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:38+00:00"
+   "last_seen": "2026-11-17T22:02:00+00:00"
   },
   {
    "site": "olx",
@@ -103,7 +191,7 @@
    "uid": "olx:674760706",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:38+00:00"
+   "last_seen": "2026-11-17T22:02:00+00:00"
   },
   {
    "site": "olx",
@@ -125,7 +213,7 @@
    "uid": "olx:673655237",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:38+00:00"
+   "last_seen": "2026-11-17T22:02:00+00:00"
   },
   {
    "site": "olx",
@@ -147,7 +235,7 @@
    "uid": "olx:673602332",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:38+00:00"
+   "last_seen": "2026-11-17T22:02:00+00:00"
   },
   {
    "site": "olx",
@@ -169,7 +257,7 @@
    "uid": "olx:673582740",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:38+00:00"
+   "last_seen": "2026-11-17T22:02:00+00:00"
   },
   {
    "site": "olx",
@@ -191,7 +279,7 @@
    "uid": "olx:675429131",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:38+00:00"
+   "last_seen": "2026-11-17T22:02:00+00:00"
   },
   {
    "site": "imovirtual",
@@ -279,7 +367,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:31+00:00"
+   "last_seen": "2026-11-17T22:01:52+00:00"
   },
   {
    "site": "casasapo",
@@ -301,7 +389,7 @@
    "uid": "casasapo:86400a45-dcaf-4787-942c-8702c1c188ad",
    "first_seen": "2026-11-09T17:58:34+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T04:53:00+00:00"
+   "last_seen": "2026-11-17T22:02:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -323,7 +411,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:31+00:00"
+   "last_seen": "2026-11-17T22:01:52+00:00"
   },
   {
    "site": "casasapo",
@@ -345,7 +433,7 @@
    "uid": "casasapo:1189a9c9-d758-11f1-9aaf-060000000054",
    "first_seen": "2026-11-04T03:54:37+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T04:53:00+00:00"
+   "last_seen": "2026-11-17T22:02:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -358,7 +446,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 80,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijl1OTlmZmFyNXdpbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ooAETQT4K2iyga3-3G_N6-nZvgVz-Gs8RrbCiGiDriU/image;s=655x491;q=80",
+   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxzMWNvNjQ5d2Ywci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.SNMjlrxCc-Z5pm-4l8Ga-ZWKbhQU98fcwU-awiJIyQs/image;s=655x491;q=80",
    "lat": 41.1648173,
    "lon": -8.5798838,
    "dist_km": 1.791966963539309,
@@ -367,7 +455,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:31+00:00"
+   "last_seen": "2026-11-17T22:01:52+00:00"
   },
   {
    "site": "casasapo",
@@ -389,7 +477,7 @@
    "uid": "casasapo:388cfa8e-d51c-11f1-9aaf-060000000054",
    "first_seen": "2026-10-31T14:01:39+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T04:53:00+00:00"
+   "last_seen": "2026-11-17T22:02:07+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +631,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:31+00:00"
+   "last_seen": "2026-11-17T22:01:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -587,7 +675,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:31+00:00"
+   "last_seen": "2026-11-17T22:01:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -653,7 +741,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-17T13:58:31+00:00"
+   "last_seen": "2026-11-17T22:01:52+00:00"
   }
  ]
 }
