@@ -13,7 +13,7 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-19T10:54:59+00:00",
+  "generated_at": "2026-11-19T19:15:35+00:00",
   "total": 32
  },
  "listings": [
@@ -59,7 +59,7 @@
    "uid": "olx:675507053",
    "first_seen": "2026-11-17T22:02:00+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T02:20:10+00:00"
+   "last_seen": "2026-11-19T19:15:32+00:00"
   },
   {
    "site": "imovirtual",
@@ -72,7 +72,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 87,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im55MWowbHNrOGZoMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.kyIq2iLoA_-MjHbRoSXK2AqhmE65AAP_N7q-yybfmFo/image;s=655x491;q=80",
+   "imagem": null,
    "lat": 41.1669372,
    "lon": -8.5972416,
    "dist_km": 1.5819604580566482,
@@ -81,7 +81,7 @@
    "uid": "imovirtual:19359664",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T10:54:53+00:00"
+   "last_seen": "2026-11-19T19:15:23+00:00"
   },
   {
    "site": "imovirtual",
@@ -94,7 +94,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 88,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InA4a3B4MTVueDA5bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jT8cwsoAtU4MRdf7IQwOIAj9x8tueEo4G-IqezknFFY/image;s=655x491;q=80",
+   "imagem": null,
    "lat": 41.1767527,
    "lon": -8.5854101,
    "dist_km": 0.35340868229952876,
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19329233",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T10:54:53+00:00"
+   "last_seen": "2026-11-19T19:15:23+00:00"
   },
   {
    "site": "olx",
@@ -116,7 +116,7 @@
    "freguesia": "Paranhos",
    "concelho": "Porto",
    "area_m2": 85,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/j9iapcksvwkj2-PT/image;s=1151x1024",
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/znnq88yk8dzv1-PT/image;s=1151x1024",
    "lat": 41.167366,
    "lon": -8.590582,
    "dist_km": 1.2056229656528918,
@@ -125,7 +125,7 @@
    "uid": "olx:675402245",
    "first_seen": "2026-11-16T22:38:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T02:20:10+00:00"
+   "last_seen": "2026-11-19T19:15:32+00:00"
   },
   {
    "site": "olx",
@@ -138,7 +138,7 @@
    "freguesia": "Paranhos",
    "concelho": "Porto",
    "area_m2": 10,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/i8bj7oucvmr22-PT/image;s=768x1024",
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/n8oitos6nqb01-PT/image;s=768x1024",
    "lat": 41.173607,
    "lon": -8.606201,
    "dist_km": 1.9768713164160774,
@@ -147,7 +147,7 @@
    "uid": "olx:675362039",
    "first_seen": "2026-11-16T22:38:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T02:20:10+00:00"
+   "last_seen": "2026-11-19T19:15:32+00:00"
   },
   {
    "site": "olx",
@@ -191,7 +191,7 @@
    "uid": "olx:674760706",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T02:20:10+00:00"
+   "last_seen": "2026-11-19T19:15:32+00:00"
   },
   {
    "site": "olx",
@@ -213,7 +213,7 @@
    "uid": "olx:673655237",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T02:20:10+00:00"
+   "last_seen": "2026-11-19T19:15:32+00:00"
   },
   {
    "site": "olx",
@@ -235,7 +235,7 @@
    "uid": "olx:673602332",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T02:20:10+00:00"
+   "last_seen": "2026-11-19T19:15:32+00:00"
   },
   {
    "site": "olx",
@@ -257,7 +257,7 @@
    "uid": "olx:673582740",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T02:20:10+00:00"
+   "last_seen": "2026-11-19T19:15:32+00:00"
   },
   {
    "site": "olx",
@@ -279,7 +279,7 @@
    "uid": "olx:675429131",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T02:20:10+00:00"
+   "last_seen": "2026-11-19T19:15:32+00:00"
   },
   {
    "site": "imovirtual",
@@ -358,7 +358,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 10,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNrYnNoejF0Z3hzdDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.xCtlR4a4FYeppqT_TVFeQw0xfBqRceME9G8aPXiPdeU/image;s=655x491;q=80",
+   "imagem": null,
    "lat": 41.1736667,
    "lon": -8.6055733,
    "dist_km": 1.9080367470221113,
@@ -367,7 +367,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T10:54:53+00:00"
+   "last_seen": "2026-11-19T19:15:23+00:00"
   },
   {
    "site": "casasapo",
@@ -402,7 +402,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 14,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJrMnpsMmJuaTczejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3K3PeLtM7xrBaBILYdDWcUU-Q_NSm3Pg9D1Y_b9GvwI/image;s=655x491;q=80",
+   "imagem": null,
    "lat": 41.167972,
    "lon": -8.5815659,
    "dist_km": 1.3079881841158225,
@@ -411,7 +411,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T10:54:53+00:00"
+   "last_seen": "2026-11-19T19:15:23+00:00"
   },
   {
    "site": "casasapo",
@@ -446,7 +446,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 80,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxzMWNvNjQ5d2Ywci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.SNMjlrxCc-Z5pm-4l8Ga-ZWKbhQU98fcwU-awiJIyQs/image;s=655x491;q=80",
+   "imagem": null,
    "lat": 41.1648173,
    "lon": -8.5798838,
    "dist_km": 1.791966963539309,
@@ -455,7 +455,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T10:54:53+00:00"
+   "last_seen": "2026-11-19T19:15:23+00:00"
   },
   {
    "site": "casasapo",
@@ -600,7 +600,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 90,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjR5cHo3a2IwOTFiNC1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.pcHU8uslnFflxkAUCrU7j59aXqeOwZa8YZ3Erc6bquA/image;s=655x491;q=80",
+   "imagem": null,
    "lat": 41.1767527,
    "lon": -8.5854101,
    "dist_km": 0.35340868229952876,
@@ -609,7 +609,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T10:54:53+00:00"
+   "last_seen": "2026-11-19T19:15:23+00:00"
   },
   {
    "site": "imovirtual",
@@ -644,7 +644,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 77,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFiOG02bTFudzhqYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9PgotQp3s44H9naJEql3IBWlvtX2Ce-Vgb5LLQOFfa8/image;s=655x491;q=80",
+   "imagem": null,
    "lat": 41.167862,
    "lon": -8.5854038,
    "dist_km": 1.147329565189684,
@@ -653,7 +653,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T10:54:53+00:00"
+   "last_seen": "2026-11-19T19:15:23+00:00"
   },
   {
    "site": "imovirtual",
@@ -710,7 +710,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 66,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt1YmdyMnpic2Z5Ni1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.t5yudgTCMYykOHrokHar3pX13OqdUjCCnaVxcjzEmzE/image;s=655x491;q=80",
+   "imagem": null,
    "lat": 41.1775668,
    "lon": -8.5916668,
    "dist_km": 0.47920819164416467,
@@ -719,7 +719,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-19T10:54:53+00:00"
+   "last_seen": "2026-11-19T19:15:23+00:00"
   }
  ]
 }
