@@ -13,8 +13,8 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-20T01:31:44+00:00",
-  "total": 32
+  "generated_at": "2026-11-20T09:25:13+00:00",
+  "total": 31
  },
  "listings": [
   {
@@ -59,7 +59,7 @@
    "uid": "olx:675507053",
    "first_seen": "2026-11-17T22:02:00+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:37+00:00"
+   "last_seen": "2026-11-20T09:25:10+00:00"
   },
   {
    "site": "imovirtual",
@@ -81,7 +81,7 @@
    "uid": "imovirtual:19359664",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:29+00:00"
+   "last_seen": "2026-11-20T09:25:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -103,7 +103,7 @@
    "uid": "imovirtual:19329233",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:29+00:00"
+   "last_seen": "2026-11-20T09:25:03+00:00"
   },
   {
    "site": "olx",
@@ -125,7 +125,7 @@
    "uid": "olx:675402245",
    "first_seen": "2026-11-16T22:38:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:37+00:00"
+   "last_seen": "2026-11-20T09:25:10+00:00"
   },
   {
    "site": "olx",
@@ -147,7 +147,7 @@
    "uid": "olx:675362039",
    "first_seen": "2026-11-16T22:38:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:37+00:00"
+   "last_seen": "2026-11-20T09:25:10+00:00"
   },
   {
    "site": "olx",
@@ -213,7 +213,7 @@
    "uid": "olx:673655237",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:37+00:00"
+   "last_seen": "2026-11-20T09:25:10+00:00"
   },
   {
    "site": "olx",
@@ -235,7 +235,7 @@
    "uid": "olx:673602332",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:37+00:00"
+   "last_seen": "2026-11-20T09:25:10+00:00"
   },
   {
    "site": "olx",
@@ -257,7 +257,7 @@
    "uid": "olx:673582740",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:37+00:00"
+   "last_seen": "2026-11-20T09:25:10+00:00"
   },
   {
    "site": "olx",
@@ -279,7 +279,7 @@
    "uid": "olx:675429131",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:37+00:00"
+   "last_seen": "2026-11-20T09:25:10+00:00"
   },
   {
    "site": "imovirtual",
@@ -367,7 +367,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:29+00:00"
+   "last_seen": "2026-11-20T09:25:03+00:00"
   },
   {
    "site": "casasapo",
@@ -411,7 +411,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:29+00:00"
+   "last_seen": "2026-11-20T09:25:03+00:00"
   },
   {
    "site": "casasapo",
@@ -455,7 +455,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:29+00:00"
+   "last_seen": "2026-11-20T09:25:03+00:00"
   },
   {
    "site": "casasapo",
@@ -609,29 +609,7 @@
    "uid": "imovirtual:19285859",
    "first_seen": "2026-09-23T17:34:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:29+00:00"
-  },
-  {
-   "site": "imovirtual",
-   "site_id": "19255173",
-   "titulo": "Apartamento T2 para 2 estudantes",
-   "tipologia": "T2",
-   "preco": 1080,
-   "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-2-estudantes-ID1iN9j",
-   "rua": "Rua Conde de Aurora",
-   "freguesia": null,
-   "concelho": null,
-   "area_m2": 65,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjM4Z2phOWoycnJtazItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.g7oT40eqsvEdLUff69CBZDK6e0-GbWcJBD14pINy6ik/image;s=655x491;q=80",
-   "lat": 41.1747799,
-   "lon": -8.6103098,
-   "dist_km": 2.4069550706286225,
-   "tempo_min": 28.883460847543468,
-   "geo_preciso": true,
-   "uid": "imovirtual:19255173",
-   "first_seen": "2026-09-16T17:51:01+00:00",
-   "notified": true,
-   "last_seen": "2026-10-21T06:47:07+00:00"
+   "last_seen": "2026-11-20T09:25:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -653,7 +631,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:29+00:00"
+   "last_seen": "2026-11-20T09:25:03+00:00"
   },
   {
    "site": "imovirtual",
@@ -719,7 +697,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-20T01:31:29+00:00"
+   "last_seen": "2026-11-20T09:25:03+00:00"
   }
  ]
 }
