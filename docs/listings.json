@@ -13,10 +13,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-24T01:23:03+00:00",
-  "total": 32
+  "generated_at": "2026-11-24T11:48:45+00:00",
+  "total": 33
  },
  "listings": [
+  {
+   "site": "olx",
+   "site_id": "675709191",
+   "titulo": "T2 mobilado com varanda e elevador em Paranhos",
+   "tipologia": "T2",
+   "preco": 710,
+   "url": "https://www.olx.pt/d/anuncio/t2-mobilado-com-varanda-e-elevador-em-paranhos-IDJJcPl.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 58,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/aau2d4zitxq83-PT/image;s=1280x715",
+   "lat": 41.17648,
+   "lon": -8.589265,
+   "dist_km": 0.18091351886754636,
+   "tempo_min": 2.1709622264105564,
+   "geo_preciso": true,
+   "uid": "olx:675709191",
+   "first_seen": "2026-11-24T11:48:42+00:00",
+   "notified": true,
+   "last_seen": "2026-11-24T11:48:42+00:00"
+  },
   {
    "site": "olx",
    "site_id": "673831459",
@@ -59,7 +81,7 @@
    "uid": "olx:675651514",
    "first_seen": "2026-11-22T01:47:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:23:00+00:00"
+   "last_seen": "2026-11-24T11:48:42+00:00"
   },
   {
    "site": "olx",
@@ -81,7 +103,7 @@
    "uid": "olx:675537158",
    "first_seen": "2026-11-20T18:08:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:23:00+00:00"
+   "last_seen": "2026-11-24T11:48:42+00:00"
   },
   {
    "site": "casasapo",
@@ -125,7 +147,7 @@
    "uid": "olx:675507053",
    "first_seen": "2026-11-17T22:02:00+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:23:00+00:00"
+   "last_seen": "2026-11-24T11:48:42+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +169,7 @@
    "uid": "imovirtual:19359664",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:22:51+00:00"
+   "last_seen": "2026-11-24T11:48:35+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +191,7 @@
    "uid": "imovirtual:19329233",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:22:51+00:00"
+   "last_seen": "2026-11-24T11:48:35+00:00"
   },
   {
    "site": "olx",
@@ -191,7 +213,7 @@
    "uid": "olx:675402245",
    "first_seen": "2026-11-16T22:38:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:23:00+00:00"
+   "last_seen": "2026-11-24T11:48:42+00:00"
   },
   {
    "site": "olx",
@@ -323,7 +345,7 @@
    "uid": "olx:673582740",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:23:00+00:00"
+   "last_seen": "2026-11-24T11:48:42+00:00"
   },
   {
    "site": "olx",
@@ -345,7 +367,7 @@
    "uid": "olx:675429131",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:23:00+00:00"
+   "last_seen": "2026-11-24T11:48:42+00:00"
   },
   {
    "site": "imovirtual",
@@ -433,7 +455,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:22:51+00:00"
+   "last_seen": "2026-11-24T11:48:35+00:00"
   },
   {
    "site": "casasapo",
@@ -477,7 +499,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:22:51+00:00"
+   "last_seen": "2026-11-24T11:48:35+00:00"
   },
   {
    "site": "casasapo",
@@ -521,7 +543,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:22:51+00:00"
+   "last_seen": "2026-11-24T11:48:35+00:00"
   },
   {
    "site": "casasapo",
@@ -653,7 +675,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:22:51+00:00"
+   "last_seen": "2026-11-24T11:48:35+00:00"
   },
   {
    "site": "imovirtual",
@@ -719,7 +741,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-24T01:22:51+00:00"
+   "last_seen": "2026-11-24T11:48:35+00:00"
   }
  ]
 }
