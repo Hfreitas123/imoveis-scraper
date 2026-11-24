@@ -13,7 +13,7 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-23T13:51:52+00:00",
+  "generated_at": "2026-11-24T01:23:03+00:00",
   "total": 32
  },
  "listings": [
@@ -59,7 +59,7 @@
    "uid": "olx:675651514",
    "first_seen": "2026-11-22T01:47:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:49+00:00"
+   "last_seen": "2026-11-24T01:23:00+00:00"
   },
   {
    "site": "olx",
@@ -72,7 +72,7 @@
    "freguesia": "São Mamede De Infesta E Senhora Da Hora",
    "concelho": "Porto",
    "area_m2": 70,
-   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/csg0k2fs7h631-PT/image;s=1280x960",
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/66igbfn9kuvi3-PT/image;s=1280x960",
    "lat": 41.186447,
    "lon": -8.597874,
    "dist_km": 1.8983445392690526,
@@ -81,7 +81,7 @@
    "uid": "olx:675537158",
    "first_seen": "2026-11-20T18:08:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:49+00:00"
+   "last_seen": "2026-11-24T01:23:00+00:00"
   },
   {
    "site": "casasapo",
@@ -125,7 +125,7 @@
    "uid": "olx:675507053",
    "first_seen": "2026-11-17T22:02:00+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:49+00:00"
+   "last_seen": "2026-11-24T01:23:00+00:00"
   },
   {
    "site": "imovirtual",
@@ -147,7 +147,7 @@
    "uid": "imovirtual:19359664",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:42+00:00"
+   "last_seen": "2026-11-24T01:22:51+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +169,7 @@
    "uid": "imovirtual:19329233",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:42+00:00"
+   "last_seen": "2026-11-24T01:22:51+00:00"
   },
   {
    "site": "olx",
@@ -191,7 +191,7 @@
    "uid": "olx:675402245",
    "first_seen": "2026-11-16T22:38:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:49+00:00"
+   "last_seen": "2026-11-24T01:23:00+00:00"
   },
   {
    "site": "olx",
@@ -279,7 +279,7 @@
    "uid": "olx:673655237",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:49+00:00"
+   "last_seen": "2026-11-24T01:23:00+00:00"
   },
   {
    "site": "olx",
@@ -323,7 +323,7 @@
    "uid": "olx:673582740",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:49+00:00"
+   "last_seen": "2026-11-24T01:23:00+00:00"
   },
   {
    "site": "olx",
@@ -345,7 +345,7 @@
    "uid": "olx:675429131",
    "first_seen": "2026-11-16T22:38:44+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:49+00:00"
+   "last_seen": "2026-11-24T01:23:00+00:00"
   },
   {
    "site": "imovirtual",
@@ -433,7 +433,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:42+00:00"
+   "last_seen": "2026-11-24T01:22:51+00:00"
   },
   {
    "site": "casasapo",
@@ -477,7 +477,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:42+00:00"
+   "last_seen": "2026-11-24T01:22:51+00:00"
   },
   {
    "site": "casasapo",
@@ -521,7 +521,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:42+00:00"
+   "last_seen": "2026-11-24T01:22:51+00:00"
   },
   {
    "site": "casasapo",
@@ -653,7 +653,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:42+00:00"
+   "last_seen": "2026-11-24T01:22:51+00:00"
   },
   {
    "site": "imovirtual",
@@ -688,7 +688,7 @@
    "freguesia": null,
    "concelho": null,
    "area_m2": 10,
-   "imagem": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9rOTk3eDRwOWE5MjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.RQkq-Eq5QwO_OxQ0GLgjQl-U4jfAKv6yrrwe9kMJg6k/image;s=655x491;q=80",
+   "imagem": null,
    "lat": 41.167703,
    "lon": -8.6084698,
    "dist_km": 2.4767951363143954,
@@ -697,7 +697,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-16T12:15:12+00:00"
+   "last_seen": "2026-11-24T01:22:51+00:00"
   },
   {
    "site": "imovirtual",
@@ -719,7 +719,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-23T13:51:42+00:00"
+   "last_seen": "2026-11-24T01:22:51+00:00"
   }
  ]
 }
