@@ -13,10 +13,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-27T00:52:18+00:00",
-  "total": 33
+  "generated_at": "2026-11-27T09:17:02+00:00",
+  "total": 34
  },
  "listings": [
+  {
+   "site": "olx",
+   "site_id": "669587448",
+   "titulo": "T2 arrendo Porto",
+   "tipologia": "T2",
+   "preco": 900,
+   "url": "https://www.olx.pt/d/anuncio/t2-arrendo-porto-IDJjvhy.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 60,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/kgbdj0lmv0vq-PT/image;s=1600x1200",
+   "lat": 41.17627,
+   "lon": -8.60747,
+   "dist_km": 2.098468035484104,
+   "tempo_min": 25.18161642580925,
+   "geo_preciso": false,
+   "uid": "olx:669587448",
+   "first_seen": "2026-11-27T09:17:00+00:00",
+   "notified": true,
+   "last_seen": "2026-11-27T09:17:00+00:00"
+  },
   {
    "site": "olx",
    "site_id": "675709191",
@@ -81,7 +103,7 @@
    "uid": "olx:675651514",
    "first_seen": "2026-11-22T01:47:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:15+00:00"
+   "last_seen": "2026-11-27T09:17:00+00:00"
   },
   {
    "site": "olx",
@@ -103,7 +125,7 @@
    "uid": "olx:675537158",
    "first_seen": "2026-11-20T18:08:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:15+00:00"
+   "last_seen": "2026-11-27T09:17:00+00:00"
   },
   {
    "site": "casasapo",
@@ -147,7 +169,7 @@
    "uid": "olx:675507053",
    "first_seen": "2026-11-17T22:02:00+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:15+00:00"
+   "last_seen": "2026-11-27T09:17:00+00:00"
   },
   {
    "site": "imovirtual",
@@ -169,7 +191,7 @@
    "uid": "imovirtual:19359664",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:08+00:00"
+   "last_seen": "2026-11-27T09:16:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -191,7 +213,7 @@
    "uid": "imovirtual:19329233",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:08+00:00"
+   "last_seen": "2026-11-27T09:16:52+00:00"
   },
   {
    "site": "olx",
@@ -455,7 +477,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:08+00:00"
+   "last_seen": "2026-11-27T09:16:52+00:00"
   },
   {
    "site": "casasapo",
@@ -499,7 +521,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:08+00:00"
+   "last_seen": "2026-11-27T09:16:52+00:00"
   },
   {
    "site": "casasapo",
@@ -543,7 +565,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:08+00:00"
+   "last_seen": "2026-11-27T09:16:52+00:00"
   },
   {
    "site": "casasapo",
@@ -675,7 +697,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:08+00:00"
+   "last_seen": "2026-11-27T09:16:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -719,7 +741,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:08+00:00"
+   "last_seen": "2026-11-27T09:16:52+00:00"
   },
   {
    "site": "imovirtual",
@@ -741,7 +763,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T00:52:08+00:00"
+   "last_seen": "2026-11-27T09:16:52+00:00"
   }
  ]
 }
