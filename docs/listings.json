@@ -13,10 +13,32 @@
    "T2"
   ],
   "preco_maximo": 1150,
-  "generated_at": "2026-11-27T19:16:03+00:00",
-  "total": 35
+  "generated_at": "2026-11-28T02:22:29+00:00",
+  "total": 36
  },
  "listings": [
+  {
+   "site": "olx",
+   "site_id": "675845342",
+   "titulo": "t2  mobilado ao metro do heroismo",
+   "tipologia": "T2",
+   "preco": 750,
+   "url": "https://www.olx.pt/d/anuncio/t2-mobilado-ao-metro-do-heroismo-IDJJMfk.html",
+   "rua": null,
+   "freguesia": "Paranhos",
+   "concelho": "Porto",
+   "area_m2": 70,
+   "imagem": "https://ireland.apollo.olxcdn.com:443/v1/files/wqvdfefrtu573-PT/image;s=2048x1536",
+   "lat": 41.17627,
+   "lon": -8.60747,
+   "dist_km": 2.098468035484104,
+   "tempo_min": 25.18161642580925,
+   "geo_preciso": false,
+   "uid": "olx:675845342",
+   "first_seen": "2026-11-28T02:22:22+00:00",
+   "notified": true,
+   "last_seen": "2026-11-28T02:22:22+00:00"
+  },
   {
    "site": "olx",
    "site_id": "675829101",
@@ -37,7 +59,7 @@
    "uid": "olx:675829101",
    "first_seen": "2026-11-27T19:15:57+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:57+00:00"
+   "last_seen": "2026-11-28T02:22:22+00:00"
   },
   {
    "site": "olx",
@@ -59,7 +81,7 @@
    "uid": "olx:669587448",
    "first_seen": "2026-11-27T09:17:00+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:57+00:00"
+   "last_seen": "2026-11-28T02:22:22+00:00"
   },
   {
    "site": "olx",
@@ -125,7 +147,7 @@
    "uid": "olx:675651514",
    "first_seen": "2026-11-22T01:47:45+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:57+00:00"
+   "last_seen": "2026-11-28T02:22:22+00:00"
   },
   {
    "site": "olx",
@@ -147,7 +169,7 @@
    "uid": "olx:675537158",
    "first_seen": "2026-11-20T18:08:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:57+00:00"
+   "last_seen": "2026-11-28T02:22:22+00:00"
   },
   {
    "site": "casasapo",
@@ -169,7 +191,7 @@
    "uid": "casasapo:1e8692be-e2ad-11f1-9aaf-060000000054",
    "first_seen": "2026-11-17T22:02:07+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:16:03+00:00"
+   "last_seen": "2026-11-28T02:22:29+00:00"
   },
   {
    "site": "olx",
@@ -191,7 +213,7 @@
    "uid": "olx:675507053",
    "first_seen": "2026-11-17T22:02:00+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:57+00:00"
+   "last_seen": "2026-11-28T02:22:22+00:00"
   },
   {
    "site": "imovirtual",
@@ -213,7 +235,7 @@
    "uid": "imovirtual:19359664",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:49+00:00"
+   "last_seen": "2026-11-28T02:22:14+00:00"
   },
   {
    "site": "imovirtual",
@@ -235,7 +257,7 @@
    "uid": "imovirtual:19329233",
    "first_seen": "2026-11-17T22:01:52+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:49+00:00"
+   "last_seen": "2026-11-28T02:22:14+00:00"
   },
   {
    "site": "olx",
@@ -499,7 +521,7 @@
    "uid": "imovirtual:19352956",
    "first_seen": "2026-11-11T18:11:55+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:49+00:00"
+   "last_seen": "2026-11-28T02:22:14+00:00"
   },
   {
    "site": "casasapo",
@@ -521,7 +543,7 @@
    "uid": "casasapo:86400a45-dcaf-4787-942c-8702c1c188ad",
    "first_seen": "2026-11-09T17:58:34+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:16:03+00:00"
+   "last_seen": "2026-11-28T02:22:29+00:00"
   },
   {
    "site": "imovirtual",
@@ -543,7 +565,7 @@
    "uid": "imovirtual:18983858",
    "first_seen": "2026-11-04T19:04:14+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:49+00:00"
+   "last_seen": "2026-11-28T02:22:14+00:00"
   },
   {
    "site": "casasapo",
@@ -587,7 +609,7 @@
    "uid": "imovirtual:19333354",
    "first_seen": "2026-11-02T21:03:51+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:49+00:00"
+   "last_seen": "2026-11-28T02:22:14+00:00"
   },
   {
    "site": "casasapo",
@@ -719,7 +741,7 @@
    "uid": "imovirtual:19275469",
    "first_seen": "2026-09-14T15:25:41+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:49+00:00"
+   "last_seen": "2026-11-28T02:22:14+00:00"
   },
   {
    "site": "imovirtual",
@@ -763,7 +785,7 @@
    "uid": "imovirtual:18945246",
    "first_seen": "2026-07-15T11:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:49+00:00"
+   "last_seen": "2026-11-28T02:22:14+00:00"
   },
   {
    "site": "imovirtual",
@@ -785,7 +807,7 @@
    "uid": "imovirtual:19192706",
    "first_seen": "2026-07-13T14:27:58+00:00",
    "notified": true,
-   "last_seen": "2026-11-27T19:15:49+00:00"
+   "last_seen": "2026-11-28T02:22:14+00:00"
   }
  ]
 }
